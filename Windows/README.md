@@ -12,3 +12,6 @@ _Includes C compiler and everything needed...
 * [VC 2003 Toolkit](https://virtuallyfun.com/wordpress/category/venixress/category/visual-c-toolkit-2003/)  
 _Older alternative which will compile for Win9x/NT, as well...  
  In which case you should also install [PSDK 2003 SP1](https://www.microsoft.com/en-us/download/details.aspx?id=15656)_
+
+## Tutorials
+* [Win32 API Programming - theForger's](http://www.winprog.org/tutorial/)

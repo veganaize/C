@@ -23,9 +23,14 @@ int* twoSum(int* nums, int numsSize, int target, int* returnSize)
 }
 
 
-void display_results(int* results)
+void test(int* nums, int nums_size, int target)
 {
+    int* results;
+    int  results_size;
+
+    results = twoSum(nums, nums_size, target, &results_size);
     printf("%d, %d\n", results[0], results[1]);
+    free(results);
 }
 
 
@@ -34,20 +39,10 @@ int main()
     int  nums1[] = {2, 7, 11, 15}; int target1 = 9;  /* {0, 1} */
     int  nums2[] = {3, 2, 4};      int target2 = 6;  /* {1, 2} */
     int  nums3[] = {3, 3};         int target3 = 6;  /* {0, 1} */
-    int* results_ptr;
-    int  results_size;
 
-    results_ptr = twoSum(nums1, sizeof nums1 / sizeof (int), target1, &results_size);
-    display_results(results_ptr);
-    free(results_ptr);
-
-    results_ptr = twoSum(nums2, sizeof nums2 / sizeof (int), target2, &results_size);
-    display_results(results_ptr);
-    free(results_ptr);
-
-    results_ptr = twoSum(nums3, sizeof nums3 / sizeof (int), target3, &results_size);
-    display_results(results_ptr);
-    free(results_ptr);
+    test(nums1, sizeof(nums1)/sizeof(int), target1);
+    test(nums2, sizeof(nums2)/sizeof(int), target2);
+    test(nums3, sizeof(nums3)/sizeof(int), target3);
 
     return 0;
 }

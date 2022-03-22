@@ -1,8 +1,6 @@
-## Dev-C++ (mingw/gcc)
-* [Bloodshed](https://bloodshed.net/)
-* [wxDev](http://wxdsgn.sourceforge.net/)
-* [Orwell](https://orwelldevcpp.blogspot.com/)
-* [Embarcadero](https://www.embarcadero.com/cn/free-tools/dev-cpp)
+
+## Tutorials
+* [Win32 API Programming Tutorial](http://www.winprog.org/tutorial/) - theForger
 
 ## MSVC 2010
 * [PSDK 7.1](https://www.microsoft.com/en-us/download/details.aspx?id=8442)  
@@ -13,5 +11,14 @@ _Includes C compiler and everything needed...
 _Older alternative which will compile for Win9x/NT, as well...  
  In which case you should also install [PSDK 2003 SP1](https://www.microsoft.com/en-us/download/details.aspx?id=15656)_
 
-## Tutorials
-* [Win32 API Programming - theForger's](http://www.winprog.org/tutorial/)
+## GCC
+* __MSYS__
+  - [MinGW/MSYS](https://sourceforge.net/projects/mingw/files/Installer) - x86 (32-bit)
+  - [MSYS2](https://www.msys2.org/) - x86 & x64
+* __Dev-C++__
+  - [Bloodshed](https://bloodshed.net/)
+  - [wxDev](http://wxdsgn.sourceforge.net/)
+  - [Orwell](https://orwelldevcpp.blogspot.com/)
+  - [Embarcadero](https://www.embarcadero.com/cn/free-tools/dev-cpp)
+* __POSIX Subsystem__
+  - [Cygwin](https://www.cygwin.com/)

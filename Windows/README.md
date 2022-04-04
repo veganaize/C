@@ -27,3 +27,8 @@
   - [Embarcadero](https://www.embarcadero.com/cn/free-tools/dev-cpp)
 * __POSIX Subsystem__
   - [Cygwin](https://www.cygwin.com/)
+
+## BORLAND
+* __C++ Builder__
+  - [Borland C++ Compiler 5.5](https://altd.embarcadero.com/download/bcppbuilder/freecommandLinetools.exe)
+  - [Embarcadero C++ Compiler 7.30](https://altd.embarcadero.com/download/bcppbuilder/BCC102.zip)

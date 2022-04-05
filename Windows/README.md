@@ -36,3 +36,4 @@
 ## Others
 * [Orange C](https://ladsoft.tripod.com/orange_c_compiler.html) - LADSoft
 * [lcc-win](https://lcc-win32.services.net/) - Jacob Navia
+* [Smaller C](https://github.com/alexfru/SmallerC)

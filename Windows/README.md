@@ -32,3 +32,7 @@
 * __C++ Builder__
   - [Borland C++ Compiler 5.5](https://altd.embarcadero.com/download/bcppbuilder/freecommandLinetools.exe)
   - [Embarcadero C++ Compiler 7.30](https://altd.embarcadero.com/download/bcppbuilder/BCC102.zip)
+
+## Others
+* [Orange C](https://ladsoft.tripod.com/orange_c_compiler.html) - LADSoft
+* [lcc-win](https://lcc-win32.services.net/) - Jacob Navia

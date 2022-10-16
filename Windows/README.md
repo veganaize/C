@@ -1,6 +1,7 @@
 
 ## Tutorials
 * [Win32 API Programming Tutorial](http://www.winprog.org/tutorial/) - theForger
+* [Windows API tutorial](https://zetcode.com/gui/winapi/) - zetcode
 
 ## MSVC
 * __2015+__

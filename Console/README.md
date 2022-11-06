@@ -8,4 +8,6 @@
 ## 8-bits
 * [cc64](https://github.com/pzembrod/cc64) - small-C compiler, written in Forth, targeting the 6502 CPU
 * [cc65](https://cc65.github.io/) - cross development package for 65(C)02 systems, including a powerful macro assembler, a C compiler, linker, librarian
+* [kickc](https://gitlab.com/camelot/kickc) - C-compiler for 6502-based platforms creating optimized and readable assembler code
+* [llvm-mos](https://llvm-mos.org/wiki/Welcome) - fork of LLVM supporting the MOS Technology 65xx series of microprocessors and their clones
 * [vbcc](http://sun.hasenbraten.de/vbcc/) - highly optimizing portable and retargetable ISO C compiler

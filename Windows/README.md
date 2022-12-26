@@ -32,7 +32,7 @@
 ## BORLAND
 * __C++ Builder__
   - [Borland C++ Compiler 5.5](https://altd.embarcadero.com/download/bcppbuilder/freecommandLinetools.exe)
-  - [Embarcadero C++ Compiler 7.30](https://altd.embarcadero.com/download/bcppbuilder/BCC102.zip)
+  - [Embarcadero C++ Compiler 7.30](https://altd.embarcadero.com/download/bcppbuilder/BCC102.zip) _(based on [clang](https://clang.llvm.org/)/[llvm](https://llvm.org/))_
 
 ## Others
 * [Orange C](https://ladsoft.tripod.com/orange_c_compiler.html) - LADSoft

@@ -23,6 +23,7 @@
 * __MSYS__
   - [MinGW/MSYS](https://sourceforge.net/projects/mingw/files/Installer) - x86 (32-bit)
   - [MSYS2](https://www.msys2.org/) - x86 & x64
+  - [TDM-GCC](https://jmeubank.github.io/tdm-gcc/)
 * __Dev-C++__
   - [Bloodshed](https://bloodshed.net/)
   - [wxDev](http://wxdsgn.sourceforge.net/)

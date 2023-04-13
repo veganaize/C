@@ -7,7 +7,9 @@
 
 ## MSVC
 * __2015+__
+  - [MSVC Essential Commands](MSVC-Essential-Commands.md)
   - [MSVC toolset at the command line](https://docs.microsoft.com/en-us/cpp/build/building-on-the-command-line) - Microsoft
+  - [Download last XP-compatible MSVC v19.27 (Build Tools 2019 **\*\*\*v16.7\*\*\***)](https://my.visualstudio.com/Downloads?q=visual%20studio%202019&wt.mc_id=o~msft~vscom~older-downloads)
 * __2010__
   - [PSDK 7.1](https://www.microsoft.com/en-us/download/details.aspx?id=8442)  
     _Includes C compiler and everything needed...  

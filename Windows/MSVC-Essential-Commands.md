@@ -8,30 +8,45 @@ cl.exe sourcefile.c /link /subsystem:console,"5.01"
 ```
 
 
-CL.EXE (v19.27)
----------------
+CL.EXE
+------
+
+`/I"<dir>"`  - add to include path  
+`/X`         - ignore standard include places  
 
 `/Wall`  - all warnings  
 `/W3`    - warning level  
 `/Wx`    - warnings as erros  
   
-`/Od`    - disable optimizations (default)  
 `/O2`    - maximum optimizations (favor speed)  
 `/GA`    - optimize for windows application  
-`/arch:` - minimum cpu architecture: <IA32|SSE|SSE2(default)|AVX|AVX2|AVX512>  
+`/arch:` - minimum cpu architecture: <IA32(all xp)|SSE(pentium3 +)|SSE2(default)|AVX|AVX2|AVX512>  
   
-`/Za`    - disable extentions  
 `/MD`    - msvcrt.lib (dynamically link c lib)  
 `/MT`    - libcmt.lib (statically link c lib)  
-`/LD`    - create .dll
+`/LD`    - create .dll  
   
 `/Fe`    - name executable file  
 `/Fo`    - name object file  
   
 `/TC`    - compile files as .c  
 `/TP`    - compile files as .cpp  
-  
-`/link /subsystem:console,"5.01"`  - x86 XP compatibility  
-`/link /subsystem:console,"5.02"`  - x64 XP compatibility  
 
-`/std:`<c++14(default)|c++17|c++latest>
+`/link`  - linker options & libs  
+`/link /LIBPATH:"<dir>"`           - add to lib path  
+`/link /subsystem:console,"5.01"`  - x86 XP compatibility (<= v19.27)  
+`/link /subsystem:console,"5.02"`  - x64 XP compatibility (<= v19.27)  
+  
+`/std:`<c++14(default)|c++17|c++latest>  
+  
+`/Od`    - disable optimizations (default)  
+`/Za`    - disable extentions  
+`/Zi`    - enable debug info  
+`/MDd`   - msvcrt.lib (dynamic c debug lib)  
+`/MTd`   - libcmt.lib (static c debug lib)  
+`/LDd`   - create .dll debug lib  
+  
+`/Zs`    - syntax check only  
+`/P`     - preprocess to file  
+`/C`     - don't strip comments  
+`/FA`    - generate assembly listing  

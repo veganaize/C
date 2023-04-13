@@ -50,3 +50,16 @@ CL.EXE
 `/P`     - preprocess to file  
 `/C`     - don't strip comments  
 `/FA`    - generate assembly listing  
+
+
+DUMPBIN.EXE
+-----------
+Check library dependencies:
+```cmd
+dumpbin /dependents filename.exe
+```
+
+Check object bitness:
+```cmd
+dumpbin /headers filename.exe |findstr machine
+```

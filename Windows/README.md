@@ -43,3 +43,8 @@
 * [Orange C](https://ladsoft.tripod.com/orange_c_compiler.html) - LADSoft
 * [lcc-win](https://lcc-win32.services.net/) - Jacob Navia
 * [Smaller C](https://github.com/alexfru/SmallerC)
+
+## Design Guidelines
+* [The Windows Interface Guidelines — A Guide for Designing Software](https://www.ics.uci.edu/~kobsa/courses/ICS104/course-notes/Microsoft_WindowsGuidelines.pdf) - Microsoft (1995)
+* [Windows 7 Design Guidelines](https://learn.microsoft.com/en-us/windows/win32/uxguide/guidelines) - Microsoft
+* [Windows 11 Design Guidelines](https://learn.microsoft.com/en-us/windows/apps/design/) - Microsoft

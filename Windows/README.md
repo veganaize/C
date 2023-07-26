@@ -2,6 +2,7 @@
 ## Tutorials
 * [Win32 API Programming Tutorial](http://www.winprog.org/tutorial/) - theForger
 * [Windows API tutorial](https://zetcode.com/gui/winapi/) - zetcode
+* [Windows Programming](https://en.wikibooks.org/wiki/Windows_Programming) - Wikibooks
 * [Get started with WinDbg](https://github.com/MicrosoftDocs/windows-driver-docs/blob/staging/windows-driver-docs-pr/debugger/getting-started-with-windbg.md) - Microsoft
 * [Windows Debuggers: A WinDbg Tutorial](https://www.codeproject.com/articles/6084/windows-debuggers-part-1-a-windbg-tutorial) - CodeProject
 

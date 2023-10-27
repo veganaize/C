@@ -7,6 +7,13 @@
 * [Clang-Tidy](https://clang.llvm.org/extra/clang-tidy/) - llvm
 
 
+🚧 Safety
+---------
+
+* [A brief introduction to C++’s model for type- and resource-safety](https://stroustrup.com/resource-model.pdf) - stroustrup et al
+* [Type-and-resource safety in modern C++](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2021/p2410r0.pdf) - stroustrup
+
+
 💈 Styling
 ---------
 

@@ -13,7 +13,7 @@ _Warnings:_
 _Optimizations:_  
 `/O2`    - maximum optimizations (favor speed)  
 `/GA`    - optimize for windows application  
-`/arch:` - minimum cpu architecture: <IA32(all xp)|SSE(pentium3 +)|SSE2(default)|AVX|AVX2|AVX512>  
+`/arch:` - minimum cpu architecture: <`IA32` (xp) | `SSE` (pentium3) | `SSE2` (default) | `AVX` | `AVX2` | `AVX512`>  
   
 _Linking:_  
 `/MD`    - msvcrt.lib (dynamically link c lib)  
@@ -48,7 +48,7 @@ _Other:_
 _C++:_  
 `/TC`    - compile files as .c  
 `/TP`    - compile files as .cpp  
-`/std:`<c++14(default)|c++17|c++latest>  
+`/std:`<`c++14` (default) | `c++17` | `c++latest`>  
 
 
 DUMPBIN.EXE

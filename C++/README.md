@@ -19,6 +19,7 @@
 
 * [C++ Core Guidelines](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines) - iso
 * [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html) - google
+* [PPP Style Guide](https://www.stroustrup.com/Programming/PPP-style.pdf) - stroustrup
 
 
 ✔️ Testing

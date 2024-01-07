@@ -4,6 +4,7 @@
 * [C Reference - cppreference.com](https://en.cppreference.com/w/c)
 * [C99 Standard](http://www.open-std.org/jtc1/sc22/wg14/www/docs/n1256.pdf)
 * [C99 Rationale](https://www.open-std.org/jtc1/sc22/wg14/www/docs/C99RationaleV5.10.pdf)
+* [New in C9X](https://www.open-std.org/jtc1/sc22/wg14/www/newinc9x.htm)
 * [The C Book](https://github.com/wardvanwanrooij/thecbook)
 ---
 

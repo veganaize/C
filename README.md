@@ -10,6 +10,7 @@
 ---
 
 * [C Coding Standard](https://users.ece.cmu.edu/~eno/coding/CCodingStandard.html) (appropriate styling guidelines)
+* [Reserved Names](https://www.gnu.org/software/libc/manual/html_node/Reserved-Names.html) (gnu c library)
 
 ---
 

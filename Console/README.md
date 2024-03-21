@@ -1,3 +1,6 @@
+## CMD
+* [Command Redirection / Pipes](https://ss64.com/nt/syntax-redirection.html) - SS64
+
 ## DOS
 * [DJGPP (gcc)](http://www.delorie.com/djgpp/zip-picker.html)
 * [Open Watcom V1.9](https://sourceforge.net/projects/openwatcom/files/open-watcom-1.9/open-watcom-c-dos-1.9.exe/download)

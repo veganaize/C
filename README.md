@@ -10,6 +10,8 @@
 ---
 
 * [C Coding Standard](https://users.ece.cmu.edu/~eno/coding/CCodingStandard.html) (appropriate styling guidelines)
+* [JPL C Coding Standard](https://andrewbanks.com/wp-content/uploads/2019/07/JPL_Coding_Standard_C.pdf) (3/2009)
+* [JSF AV C++ Coding Standard](https://www.stroustrup.com/JSF-AV-rules.pdf) (12/2005)
 * [Reserved Names](https://www.gnu.org/software/libc/manual/html_node/Reserved-Names.html) (gnu c library)
 
 ---

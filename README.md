@@ -6,6 +6,7 @@
 * [C99 Rationale](https://www.open-std.org/jtc1/sc22/wg14/www/docs/C99RationaleV5.10.pdf)
 * [New in C9X](https://www.open-std.org/jtc1/sc22/wg14/www/newinc9x.htm)
 * [The C Book](https://github.com/wardvanwanrooij/thecbook)
+* [C Programming](https://en.wikibooks.org/wiki/C_Programming) - wikibook
 
 ---
 

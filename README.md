@@ -17,4 +17,5 @@
 
 ---
 
-* [GTK+ 2.24 Reference Manual](https://developer-old.gnome.org/gtk2/2.24/)
+* [GTK+ 2.24 Reference Manual](https://developer-old.gnome.org/gtk2/2.24/) - gnome.org
+* [pkg-config](https://www.freedesktop.org/wiki/Software/pkg-config/) - freedesktop.org

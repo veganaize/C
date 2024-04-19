@@ -35,3 +35,8 @@
 -----------
 
 * [C++ Language Tutorial](https://cplusplus.com/doc/tutorial/) - cplusplus.com
+* A Tour of C++
+  - [Part 1: The Basics](https://isocpp.org/images/uploads/2-Tour-Basics.pdf)
+  - [Part 2: Abstraction Mechanisms](https://isocpp.org/images/uploads/3-Tour-Abstr.pdf)
+  - [Part 3: Containers and Algorithms](https://isocpp.org/files/papers/4-Tour-Algo-draft.pdf)
+  - [Part 4: Concurrency and Utilities](https://isocpp.org/files/papers/5-Tour-Util.pdf)

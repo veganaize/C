@@ -54,3 +54,4 @@
 ## 🩹 Exception Handling
 * [Vectored Exception Handling in Windows XP](https://learn.microsoft.com/en-us/archive/msdn-magazine/2001/september/under-the-hood-new-vectored-exception-handling-in-windows-xp) - MSDN Magazine 2001
 * [Depths of Win32 Structured Exception Handling](https://web.archive.org/web/20081230021224id_/http://www.microsoft.com/msj/0197/Exception/Exception.aspx) - Microsoft Systems Journal 1997
+* [DWARF & SJLJ Exception Handling](https://gcc.gnu.org/wiki/WindowsGCCImprovements) - GCC

@@ -1,10 +1,12 @@
 
-## 📖 Tutorials
-* [Win32 API Programming Tutorial](http://www.winprog.org/tutorial/) - theForger
-* [Windows API tutorial](https://zetcode.com/gui/winapi/) - zetcode
-* [Windows Programming](https://en.wikibooks.org/wiki/Windows_Programming) - Wikibooks
-* [Get started with WinDbg](https://github.com/MicrosoftDocs/windows-driver-docs/blob/staging/windows-driver-docs-pr/debugger/getting-started-with-windbg.md) - Microsoft
-* [Windows Debuggers: A WinDbg Tutorial](https://www.codeproject.com/articles/6084/windows-debuggers-part-1-a-windbg-tutorial) - CodeProject
+## [📖 Windows API](https://en.wikipedia.org/wiki/Windows_API)
+* _Tutorials_
+  - [Win32 API Programming Tutorial](http://www.winprog.org/tutorial/) - theForger
+  - [Windows API tutorial](https://zetcode.com/gui/winapi/) - zetcode
+  - [Windows Programming](https://en.wikibooks.org/wiki/Windows_Programming) - Wikibooks
+* _Reference_
+  - [Windows API Index](https://en.wikipedia.org/wiki/Windows_API) - Microsoft
+
 
 ## ⚙️ Compilers
   * _MSVC_
@@ -41,15 +43,22 @@
     * __C++ Builder__
       - [Borland C++ Compiler 5.5](https://altd.embarcadero.com/download/bcppbuilder/freecommandLinetools.exe)
       - [Embarcadero C++ Compiler 7.30](https://altd.embarcadero.com/download/bcppbuilder/BCC102.zip) _(based on [clang](https://clang.llvm.org/)/[llvm](https://llvm.org/))_
-  * _Others_
+  * _OTHERS_
     * [Orange C](https://ladsoft.tripod.com/orange_c_compiler.html) - LADSoft
     * [lcc-win](https://lcc-win32.services.net/) - Jacob Navia
     * [Smaller C](https://github.com/alexfru/SmallerC)
+
 
 ## ✔️ Design Guidelines
 * [The Windows Interface Guidelines — A Guide for Designing Software](https://www.ics.uci.edu/~kobsa/courses/ICS104/course-notes/Microsoft_WindowsGuidelines.pdf) - Microsoft (1995)
 * [Windows 7 Design Guidelines](https://learn.microsoft.com/en-us/windows/win32/uxguide/guidelines) - Microsoft
 * [Windows 11 Design Guidelines](https://learn.microsoft.com/en-us/windows/apps/design/) - Microsoft
+
+
+## 🔎 Debugging
+* [Get started with WinDbg](https://github.com/MicrosoftDocs/windows-driver-docs/blob/staging/windows-driver-docs-pr/debugger/getting-started-with-windbg.md) - Microsoft
+* [Windows Debuggers: A WinDbg Tutorial](https://www.codeproject.com/articles/6084/windows-debuggers-part-1-a-windbg-tutorial) - CodeProject
+
 
 ## 🩹 Exception Handling
 * [Vectored Exception Handling in Windows XP](https://learn.microsoft.com/en-us/archive/msdn-magazine/2001/september/under-the-hood-new-vectored-exception-handling-in-windows-xp) - MSDN Magazine 2001

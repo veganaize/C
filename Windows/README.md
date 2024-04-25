@@ -6,7 +6,7 @@
 * [Get started with WinDbg](https://github.com/MicrosoftDocs/windows-driver-docs/blob/staging/windows-driver-docs-pr/debugger/getting-started-with-windbg.md) - Microsoft
 * [Windows Debuggers: A WinDbg Tutorial](https://www.codeproject.com/articles/6084/windows-debuggers-part-1-a-windbg-tutorial) - CodeProject
 
-## COMPILERS
+## Compilers
   * _MSVC_
     * __2015+__
       - [MSVC Essential Commands](MSVC-Essential-Commands.md)
@@ -50,3 +50,7 @@
 * [The Windows Interface Guidelines — A Guide for Designing Software](https://www.ics.uci.edu/~kobsa/courses/ICS104/course-notes/Microsoft_WindowsGuidelines.pdf) - Microsoft (1995)
 * [Windows 7 Design Guidelines](https://learn.microsoft.com/en-us/windows/win32/uxguide/guidelines) - Microsoft
 * [Windows 11 Design Guidelines](https://learn.microsoft.com/en-us/windows/apps/design/) - Microsoft
+
+## Exception Handling
+* [Vectored Exception Handling in Windows XP](https://learn.microsoft.com/en-us/archive/msdn-magazine/2001/september/under-the-hood-new-vectored-exception-handling-in-windows-xp) - MSDN Magazine 2001
+* [Depths of Win32 Structured Exception Handling](https://web.archive.org/web/20081230021224id_/http://www.microsoft.com/msj/0197/Exception/Exception.aspx) - Microsoft Systems Journal 1997

@@ -13,5 +13,6 @@ Tutorials
 Reference
 ---------
 
+* [Xlib](https://en.wikipedia.org/wiki/Xlib) - wikipedia
 * [Xlib - C Language X Interface](https://www.x.org/releases/current/doc/libX11/libX11/libX11.html) - x.org [[ _pdf_ ](https://www.x.org/releases/current/doc/libX11/libX11/libX11.pdf)] [[ _6.7 pdf_ ](https://www.x.org/docs/X11/xlib.pdf)]
 * [XCB - Replacement for Xlib](https://xcb.freedesktop.org/) - freedesktop.org

@@ -2,6 +2,7 @@ Unix
 ====
 
 * [The Unix Philosophy](https://en.wikipedia.org/wiki/Unix_philosophy)
+* [The Art of Unix Programming](http://www.catb.org/esr/writings/taoup/html/)
 
 
 X11

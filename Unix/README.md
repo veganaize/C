@@ -1,7 +1,14 @@
 Unix
 ====
 
+* [The Unix Philosophy](https://en.wikipedia.org/wiki/Unix_philosophy)
+
+
+X11
+---
+
 * [X Windowing System](X%20Windowing%20System/README.md)
+
 
 Systems Programming
 -------------------

@@ -4,6 +4,7 @@ Unix
 * [The Unix Philosophy](https://en.wikipedia.org/wiki/Unix_philosophy)
 * [The Art of Unix Programming](http://www.catb.org/esr/writings/taoup/html/)
 * [GNU Coding Standards](https://www.gnu.org/prep/standards/)
+  - [GNU Autotools book](https://www.sourceware.org/autobook/)
 
 
 X11

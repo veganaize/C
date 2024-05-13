@@ -18,6 +18,7 @@
 ---------
 
 * [C++ Core Guidelines](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines) - iso
+* [Coding Guidelines](https://github.com/qbittorrent/qBittorrent/blob/master/CODING_GUIDELINES.md) - qbittorrent
 * [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html) - google
 * [PPP Style Guide](https://www.stroustrup.com/Programming/PPP-style.pdf) - stroustrup
 

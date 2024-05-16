@@ -27,6 +27,6 @@
 ### Tools
 * [GNU Make](https://www.gnu.org/software/make/) [[_makefile conventions_](https://www.gnu.org/prep/standards/html_node/Makefile-Conventions.html)] [[_manual - single page_](https://www.gnu.org/software/make/manual/make.html)] [[_manual - multi page_](https://www.gnu.org/software/make/manual/html_node/index.html)] [[_POSIX.1-2017_](https://pubs.opengroup.org/onlinepubs/9699919799/utilities/make.html)]
 * [GTK+ 2.24 Reference Manual](https://developer-old.gnome.org/gtk2/2.24/) - gnome.org
-* [pkg-config](https://www.freedesktop.org/wiki/Software/pkg-config/) - freedesktop.org
+* [pkgconf](https://github.com/pkgconf/pkgconf)
 * [GCC Optimizations](https://wiki.gentoo.org/wiki/GCC_optimization) - gentoo wiki
 * [GCC Opimization Options](https://gcc.gnu.org/onlinedocs/gcc/Optimize-Options.html) - gnu gcc docs

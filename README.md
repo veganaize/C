@@ -3,6 +3,7 @@
 ### Reference
 * C Language Reference [[2.0](https://open-watcom.github.io/open-watcom-v2-wikidocs/clr.pdf)] [[1.8](http://openwatcom.org/ftp/manuals/current/clr.pdf)] [[1.5](http://openwatcom.org/ftp/manuals/1.5/clr.pdf)] - open watcom
 * [C Reference](https://en.cppreference.com/w/c) - cppreference.com
+* [GNU C Manual](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.pdf) - gnu.org
 * [The C Library Reference Guide](https://web.archive.org/web/20150118141700id_/http://www.acm.uiuc.edu/webmonkeys/book/c_guide/index.html) - eric huss
 
 ### Standard

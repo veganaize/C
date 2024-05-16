@@ -7,6 +7,8 @@
 * [The C Library Reference Guide](https://web.archive.org/web/20150118141700id_/http://www.acm.uiuc.edu/webmonkeys/book/c_guide/index.html) - eric huss
 
 ### Standard
+* [C89 Standard](https://web.archive.org/web/20161223125339id_/http://flash-gordon.me.uk/ansi.c.txt)
+* [C89 Rationale](http://www.lysator.liu.se/c/rat/title.html) [_[pdf](https://drive.google.com/file/d/0BxVCLS4f8Sg5NWZmM2NjZWEtYmExMS00Y2EzLWE3ZTMtNzFmYjYwYzBiOTIw/view)_]
 * [C99 Standard](http://www.open-std.org/jtc1/sc22/wg14/www/docs/n1256.pdf)
 * [C99 Rationale](https://www.open-std.org/jtc1/sc22/wg14/www/docs/C99RationaleV5.10.pdf)
 * [New in C9X](https://www.open-std.org/jtc1/sc22/wg14/www/newinc9x.htm)

@@ -8,6 +8,9 @@
   - [Pacific C](http://web.archive.org/web/20040215154614/http://www1.htsoft.com/files/pacific/pacific.exe) and also its [PDF manual](http://web.archive.org/web/19980524231521/http://www1.htsoft.com/files/pacific/pacman.pdf)
   - [LADSoft's CC386](https://ladsoft.tripod.com/cc386_compiler.html)
   - [DeSmet C](http://www.desmet-c.com/)
+  - Borland
+    - [Turbo C 2.01](https://web.archive.org/web/20050204085204/http://bdn.borland.com/article/0,1410,20841,00.html) (1989)
+    - [Turbo C++ 1.01](https://web.archive.org/web/20050204085204/http://bdn.borland.com/article/0,1410,21751,00.html) - 100% ANSI C (1991)
 * GRAPHICS
   - [C Graphics Tutorial](https://www.programmingsimplified.com/c-graphics-programming-tutorial) - Turbo C / BGI
 

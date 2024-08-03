@@ -29,3 +29,28 @@ Systems Programming
   - [book](https://pdos.csail.mit.edu/6.828/2018/xv6/book-rev11.pdf) (pdf)
   - [source](https://pdos.csail.mit.edu/6.828/2018/xv6/xv6-rev11.pdf) (pdf)
   - [source](https://github.com/mit-pdos/xv6-public) (github)
+---
+<details>
+<summary>Linux Device Drivers - 3rd Edition [<a href="static.lwn.net/images/pdf/LDD3/ldd3_pdf.tar.bz2">compressed archive</a>]</summary>
+  
+  - [Table of Contents](https://static.lwn.net/images/pdf/LDD3/ldr3TOC.fm.pdf)
+  - [01. Intro to Device Drivers](https://static.lwn.net/images/pdf/LDD3/ch01.pdf)
+  - [02. Building and Running Modules](https://static.lwn.net/images/pdf/LDD3/ch02.pdf)
+  - [03. Char Drivers](https://static.lwn.net/images/pdf/LDD3/ch03.pdf)
+  - [04. Debugging Techniques](https://static.lwn.net/images/pdf/LDD3/ch04.pdf)
+  - [05. Concurrency and Race Conditions](https://static.lwn.net/images/pdf/LDD3/ch05.pdf)
+  - [06. Advanced Char Driver Operations](https://static.lwn.net/images/pdf/LDD3/ch06.pdf)
+  - [07. Time, Delays, and Deferred Work](https://static.lwn.net/images/pdf/LDD3/ch07.pdf)
+  - [08. Allocating Memory](https://static.lwn.net/images/pdf/LDD3/ch08.pdf)
+  - [09. Communicating with Hardware](https://static.lwn.net/images/pdf/LDD3/ch09.pdf)
+  - [10. Interrupt Handling](https://static.lwn.net/images/pdf/LDD3/ch10.pdf)
+  - [11. Data Types in the Kernel](https://static.lwn.net/images/pdf/LDD3/ch11.pdf)
+  - [12. PCI Drivers](https://static.lwn.net/images/pdf/LDD3/ch12.pdf)
+  - [13. USB Drivers](https://static.lwn.net/images/pdf/LDD3/ch13.pdf)
+  - [14. The Linux Device Model](https://static.lwn.net/images/pdf/LDD3/ch14.pdf)
+  - [15. Memory Mapping and DMA](https://static.lwn.net/images/pdf/LDD3/ch15.pdf)
+  - [16. Block Drivers](https://static.lwn.net/images/pdf/LDD3/ch16.pdf)
+  - [17. Network Drivers](https://static.lwn.net/images/pdf/LDD3/ch17.pdf)
+  - [18. TTY Drivers](https://static.lwn.net/images/pdf/LDD3/ch18.pdf)
+  - [Index](https://static.lwn.net/images/pdf/LDD3/ldr3IX.fm.pdf)
+</details>

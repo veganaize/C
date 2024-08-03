@@ -31,7 +31,7 @@ Systems Programming
   - [source](https://github.com/mit-pdos/xv6-public) (github)
 ---
 <details>
-<summary>Linux Device Drivers - 3rd Edition [<a href="static.lwn.net/images/pdf/LDD3/ldd3_pdf.tar.bz2">compressed archive</a>]</summary>
+  <summary>Linux Device Drivers - 3rd Edition [<a href="static.lwn.net/images/pdf/LDD3/ldd3_pdf.tar.bz2">compressed archive</a>]</summary>
   
   - [Table of Contents](https://static.lwn.net/images/pdf/LDD3/ldr3TOC.fm.pdf)
   - [01. Intro to Device Drivers](https://static.lwn.net/images/pdf/LDD3/ch01.pdf)
@@ -53,4 +53,11 @@ Systems Programming
   - [17. Network Drivers](https://static.lwn.net/images/pdf/LDD3/ch17.pdf)
   - [18. TTY Drivers](https://static.lwn.net/images/pdf/LDD3/ch18.pdf)
   - [Index](https://static.lwn.net/images/pdf/LDD3/ldr3IX.fm.pdf)
+</details>
+<details>
+  <summary>The Linux Kernel Module Programming Guide</summary>
+  
+  - [Online HTML](https://tldp.org/LDP/lkmpg/2.6/html/)
+  - [HTML Archive](https://tldp.org/LDP/lkmpg/2.6/lkmpg.html.tar.gz)
+  - [PDF](https://tldp.org/LDP/lkmpg/2.6/lkmpg.pdf)
 </details>

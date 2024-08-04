@@ -21,7 +21,7 @@
         Uninstall ALL "Visual C++ 2010 Redistributables" from control panel FIRST!  
         Then burn/mount the image and run X:\Setup\SDKSetup.exe directly._
     * __2003__
-      - [VC 2003 Toolkit](https://virtuallyfun.com/wordpress/category/venixress/category/visual-c-toolkit-2003/)  
+      - [VC 2003 Toolkit](https://virtuallyfun.com/2016/09/17/visual-c-toolkit-2003/)  
         _Older alternative which will compile for Win9x/NT, as well..._  
       - [PSDK 2003 SP1](https://www.microsoft.com/en-us/download/details.aspx?id=15656)  
         _Install this with the 2003 toolkit._

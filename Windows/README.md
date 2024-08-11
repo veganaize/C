@@ -25,6 +25,8 @@
         _Older alternative which will compile for Win9x/NT, as well..._  
       - [PSDK 2003 SP1](https://www.microsoft.com/en-us/download/details.aspx?id=15656)  
         _Install this with the 2003 toolkit._
+    * __6.0__
+      - [SP6](http://web.archive.org/web/20160222035203id_/http://download.microsoft.com/download/1/9/f/19fe4660-5792-4683-99e0-8d48c22eed74/Vs6sp6.exe)
     * __NMAKE__
       - [NMAKE Reference](https://learn.microsoft.com/en-us/cpp/build/reference/nmake-reference) - Microsoft
       - [Managing Projects with NMAKE](https://et.engr.iupui.edu/~dskim/downloadable/reference_Nmake.pdf)

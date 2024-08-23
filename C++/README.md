@@ -36,12 +36,12 @@
 -----------
 
 * [C++ Language Tutorial](https://cplusplus.com/doc/tutorial/) - cplusplus.com
-* A Tour of C++
+* A Tour of C++, Bjarne Stroustrup
   - [Part 1: The Basics](https://isocpp.org/images/uploads/2-Tour-Basics.pdf)
   - [Part 2: Abstraction Mechanisms](https://isocpp.org/images/uploads/3-Tour-Abstr.pdf)
   - [Part 3: Containers and Algorithms](https://isocpp.org/files/papers/4-Tour-Algo-draft.pdf)
   - [Part 4: Concurrency and Utilities](https://isocpp.org/files/papers/5-Tour-Util.pdf)
-* PPP
+* Programming: Principles and Practice using C++, Bjarne Stroustrup
   - [Preface](https://www.stroustrup.com/Programming/PPP2_Preface.pdf)
   - [Customizing Input and Output](https://www.stroustrup.com/PPP2e_Ch11.pdf)
   - [A Display Model](https://www.stroustrup.com/PPP3_Ch10-Display.pdf)
@@ -54,3 +54,11 @@
   - [The C Programming Language](https://www.stroustrup.com/PPP2e_Ch27.pdf)
   - [Glossary](https://www.stroustrup.com/PPP2e_Glossary.pdf)
   - [Slides](https://www.stroustrup.com/PPP3_slides.html)
+* Scott Meyers
+  - [Effective C++](https://ptgmedia.pearsoncmg.com/images/9780321334879/samplepages/0321334876.pdf) - preview, 3rd ed.
+  - [Effective C++ Digital Collection](https://api.pageplace.de/preview/DT0400.9780132979191_A23601363/preview-9780132979191_A23601363.pdf) - preview
+  - [More Effective C++](https://api.pageplace.de/preview/DT0400.9780321515810_A23551820/preview-9780321515810_A23551820.pdf) - preview
+  - [Effective STL](https://ptgmedia.pearsoncmg.com/images/9780201749625/samplepages/0201749629.pdf) - preview
+  - [Effective C++ in an Embedded Environment](https://www.artima.com/samples/effCppEmbNotesSample.pdf) - notes sample
+  - [Overview of the New C++ (C++11/14)](https://www.artima.com/samples/cpp11-14NotesSample.pdf) - notes sample
+  

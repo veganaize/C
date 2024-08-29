@@ -28,8 +28,8 @@ _Linking:_
 `/link /subsystem:console,"5.01"`  - x86 XP compatibility (<= v19.27)  
 `/link /subsystem:console,"5.02"`  - x64 XP compatibility (<= v19.27)  
 or  
-`set _LINK_=%_LINK_% -subsystem:console,"5.01"`  - sets env var for x86 XP (<= v19.27)  
-`set _LINK_=%_LINK_% -subsystem:console,"5.02"`  - sets env var for x64 XP (<= v19.27)  
+`set _LINK_= -subsystem:console,"5.01"`  - sets env var for x86 XP (<= v19.27)  
+`set _LINK_= -subsystem:console,"5.02"`  - sets env var for x64 XP (<= v19.27)  
   
 _Debugging:_  
 `/Od`    - disable optimizations (default)  
@@ -49,7 +49,6 @@ _C++:_
 `/TC`    - compile files as .c  
 `/TP`    - compile files as .cpp  
 `/std:`<`c++14` (default) | `c++17` | `c++latest`>  
-
 
 DUMPBIN.EXE
 -----------

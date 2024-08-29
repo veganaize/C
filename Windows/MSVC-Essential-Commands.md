@@ -1,5 +1,5 @@
-CL.EXE (2019)
-------
+`CL.EXE` (2019)
+--------
 
 _Includes:_  
 `/I"<dir>"`  - add to include path  
@@ -50,8 +50,10 @@ _C++:_
 `/TP`    - compile files as .cpp  
 `/std:`<`c++14` (default) | `c++17` | `c++latest`>  
 
-DUMPBIN.EXE
------------
+
+`DUMPBIN.EXE`
+-------------
+
 Check library dependencies:  
 `dumpbin /dependents filename.exe`  
 

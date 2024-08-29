@@ -28,6 +28,7 @@
     * __6.0__
       - [SP6](http://web.archive.org/web/20160222035203id_/http://download.microsoft.com/download/1/9/f/19fe4660-5792-4683-99e0-8d48c22eed74/Vs6sp6.exe)
     * __NMAKE__
+      - [NMake 1.5](https://web.archive.org/web/20060615060342id_/http://download.microsoft.com/download/vc15/Patch/1.52/W95/EN-US/Nmake15.exe) - _32-bit (VC++ 2.0)_
       - [NMAKE Reference](https://learn.microsoft.com/en-us/cpp/build/reference/nmake-reference) - Microsoft
       - [Managing Projects with NMAKE](https://et.engr.iupui.edu/~dskim/downloadable/reference_Nmake.pdf)
   * _GCC_

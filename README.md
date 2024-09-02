@@ -13,6 +13,7 @@
 * [C99 Rationale](https://www.open-std.org/jtc1/sc22/wg14/www/docs/C99RationaleV5.10.pdf)
 * [New in C9X](https://www.open-std.org/jtc1/sc22/wg14/www/newinc9x.htm)
 * [C11 Standard](https://www.open-std.org/jtc1/sc22/wg14/www/docs/n1570.pdf)
+* [C17 Standard](https://web.archive.org/web/20181230041359id_/http://www.open-std.org/jtc1/sc22/wg14/www/abq/c17_updated_proposed_fdis.pdf)
 * [C23 Standard](https://www.open-std.org/jtc1/sc22/wg14/www/docs/n3220.pdf)
 
 ### Books

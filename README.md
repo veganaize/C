@@ -13,6 +13,7 @@
 * [C99 Rationale](https://www.open-std.org/jtc1/sc22/wg14/www/docs/C99RationaleV5.10.pdf)
 * [New in C9X](https://www.open-std.org/jtc1/sc22/wg14/www/newinc9x.htm)
 * [C23 (working draft)](https://open-std.org/JTC1/SC22/WG14/www/docs/n3096.pdf) 2023-04-01
+* [C2y (working draft)](https://open-std.org/JTC1/SC22/WG14/www/docs/n3301.pdf) 2024-07-28
 
 ### Books
 * The C Book [[_online_](https://publications.gbdirect.co.uk/c_book/)] [[_revised pdf_](https://github.com/wardvanwanrooij/thecbook)]

@@ -59,3 +59,19 @@ Check library dependencies:
 
 Check object bitness:  
 `dumpbin /headers filename.exe |findstr machine`  
+
+
+SDL2 (x86)
+----
+
+```cmd
+cl.exe ^
+    /arch:SSE ^
+    /EHsc ^
+    /I c:\path\to\sdl2\include ^
+    *.c ^
+    shell32.lib SDL2.lib SDL2main.lib SDL2_image.lib ^
+    /link ^
+    /libpath:c:\path\to\sdl2\lib\x86 ^
+    /subsystem:console,"5.01"
+```

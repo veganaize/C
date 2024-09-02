@@ -14,7 +14,7 @@
 * [New in C9X](https://www.open-std.org/jtc1/sc22/wg14/www/newinc9x.htm)
 
 ### Books
-* [The C Book](https://github.com/wardvanwanrooij/thecbook)
+* The C Book [[_online_](https://publications.gbdirect.co.uk/c_book/)] [[_revised pdf_](https://github.com/wardvanwanrooij/thecbook)]
 * [C Programming](https://en.wikibooks.org/wiki/C_Programming) - wikibook
 
 ---

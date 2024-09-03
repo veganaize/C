@@ -14,6 +14,16 @@
 * [Type-and-resource safety in modern C++](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2021/p2410r0.pdf) - stroustrup
 
 
+📋 Standard
+-----------
+
+* [C++11](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2012/n3337.pdf) 2012-01-16 (n3337)
+* [C++14](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3797.pdf) 2013-10-13 (n3797)
+* [C++17](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2017/n4659.pdf) 2017-03-21 (n4659)
+* [C++20](https://isocpp.org/files/papers/N4860.pdf) 2020-03-31 (n4860)
+* [C++23](https://open-std.org/JTC1/SC22/WG21/docs/papers/2023/n4950.pdf) 2023-05-10 (n4950)
+
+
 💈 Styling
 ---------
 

@@ -5,7 +5,7 @@
   - [Windows API tutorial](https://zetcode.com/gui/winapi/) - zetcode
   - [Windows Programming](https://en.wikibooks.org/wiki/Windows_Programming) - Wikibooks
 * _Reference_
-  - [Windows API Index](https://en.wikipedia.org/wiki/Windows_API) - Microsoft
+  - [Windows API Index](https://learn.microsoft.com/en-us/windows/win32/apiindex/windows-api-list) - Microsoft
   - [Hungarian Notation](https://reactos.org/wiki/Hungarian_Notation) - ReactOS
 
 

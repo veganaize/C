@@ -61,6 +61,12 @@ Check object bitness:
 `dumpbin /headers filename.exe |findstr machine`  
 
 
+MSBuild
+-------
+
+`msbuild /p:platform=win32 /p:configuration=release /p:platformtoolset=v142 /t:clean`
+
+
 SDL2 (x86)
 ----
 

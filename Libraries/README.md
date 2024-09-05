@@ -20,6 +20,7 @@ C Libraries
     - [OpenGL ES 1.1 (common)](https://registry.khronos.org/OpenGL/specs/es/1.1/es_cm_spec_1.1.pdf) - compares against opengl 1.5 (desktop)
     - [OpenGL ES 1.1](https://registry.khronos.org/OpenGL/specs/es/1.1/es_full_spec_1.1.pdf) - based on opengl 1.5 (desktop)
     - [OpenGL ES 1.1 Extension Pack](https://registry.khronos.org/OpenGL/specs/es/1.1/opengles_spec_1_1_extension_pack.pdf)
+    - [OpenGL ES 1.1 Reference Pages](https://registry.khronos.org/OpenGL-Refpages/es1.1/xhtml/)
     - [OpenGL ES 2.0 API Quick Reference](https://www.khronos.org/files/opengles20-reference-card.pdf)
     - [OpenGL ES 2.0](https://registry.khronos.org/OpenGL/specs/es/2.0/es_full_spec_2.0.pdf)
     - [OpenGL ES 2.0 Reference Pages](https://registry.khronos.org/OpenGL-Refpages/es2.0/)

@@ -14,7 +14,7 @@ C Libraries
     - [OpenGL 4.1 API Quick Reference](https://www.khronos.org/files/opengl41-quick-reference-card.pdf)
     - [OpenGL 4.1 (compatibility)](https://registry.khronos.org/OpenGL/specs/gl/glspec41.compatibility.pdf)
     - [OpenGL 4.1 (core)](https://registry.khronos.org/OpenGL/specs/gl/glspec41.core.pdf) - full es 2.0 compatible; last apple compatible
-    - [OpenGL 4.1 Reference Pages](https://registry.khronos.org/OpenGL-Refpages/gl4/)
+    - [OpenGL 4.x Reference Pages](https://registry.khronos.org/OpenGL-Refpages/gl4/)
     - [OpenGL Shading Language 4.1](https://registry.khronos.org/OpenGL/specs/gl/GLSLangSpec.4.10.pdf)
   - _ES_
     - [OpenGL ES 1.1 (common)](https://registry.khronos.org/OpenGL/specs/es/1.1/es_cm_spec_1.1.pdf) - compares against opengl 1.5 (desktop)

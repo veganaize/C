@@ -7,7 +7,7 @@ _Includes:_
   
 _Warnings:_  
 `/Wall`  - all warnings  
-`/W3`    - warning level  
+`/W4`    - warning level  
 `/Wx`    - warnings as erros  
 
 _Optimizations:_  

@@ -11,7 +11,7 @@ C Libraries
     - [OpenGL Shading Language 3.3](https://registry.khronos.org/OpenGL/specs/gl/GLSLangSpec.3.30.pdf)
     - [OpenGL 4.1 (compatibility)](https://registry.khronos.org/OpenGL/specs/gl/glspec41.compatibility.pdf)
     - [OpenGL 4.1 (core)](https://registry.khronos.org/OpenGL/specs/gl/glspec41.core.pdf) - full es 2.0 compatible; last apple compatible
-    - [OpenGL Shading Language 4.1)](https://registry.khronos.org/OpenGL/specs/gl/GLSLangSpec.4.10.pdf)
+    - [OpenGL Shading Language 4.1](https://registry.khronos.org/OpenGL/specs/gl/GLSLangSpec.4.10.pdf)
   - _ES_
     - [OpenGL ES 1.1 (common)](https://registry.khronos.org/OpenGL/specs/es/1.1/es_cm_spec_1.1.pdf) - compares against opengl 1.5 (desktop)
     - [OpenGL ES 1.1](https://registry.khronos.org/OpenGL/specs/es/1.1/es_full_spec_1.1.pdf) - based on opengl 1.5 (desktop)

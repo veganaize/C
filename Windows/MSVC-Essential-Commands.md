@@ -8,7 +8,7 @@ _Includes:_
 _Warnings:_  
 `/Wall`  - all warnings  
 `/W4`    - warning level  
-`/Wx`    - warnings as erros  
+`/WX`    - warnings as erros  
 
 _Optimizations:_  
 `/O2`    - maximum optimizations (favor speed)  

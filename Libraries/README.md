@@ -27,4 +27,5 @@ C Libraries
     - [GLSL ES 1.0](https://registry.khronos.org/OpenGL/specs/es/2.0/GLSL_ES_Specification_1.00.pdf) - coincides with opengl es 2.0
   - _Extension Libraries_
     - [GLU 1.3](https://registry.khronos.org/OpenGL/specs/gl/glu1.3.pdf)
+    - [GLUT API v3](https://www.opengl.org/resources/libraries/glut/spec3/spec3.html) [[ _pdf_ ](https://www.opengl.org/resources/libraries/glut/glut-3.spec.pdf)]
     - [GLX 1.4](https://registry.khronos.org/OpenGL/specs/gl/glx1.4.pdf)

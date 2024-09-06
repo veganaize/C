@@ -1,8 +1,9 @@
 C Libraries
 ===========
 
-* OpenGL
-  - _Desktop_
+OpenGL
+------
+  - _Specifications_
     - [OpenGL 1.0](https://registry.khronos.org/OpenGL/specs/gl/glspec10.pdf)
     - [OpenGL 2.1](https://registry.khronos.org/OpenGL/specs/gl/glspec21.pdf)
     - [OpenGL 2.1 Reference Pages](https://registry.khronos.org/OpenGL-Refpages/gl2.1/) - includes glx & glu

@@ -24,7 +24,7 @@ C Libraries
     - [OpenGL ES 2.0 API Quick Reference](https://www.khronos.org/files/opengles20-reference-card.pdf)
     - [OpenGL ES 2.0](https://registry.khronos.org/OpenGL/specs/es/2.0/es_full_spec_2.0.pdf)
     - [OpenGL ES 2.0 Reference Pages](https://registry.khronos.org/OpenGL-Refpages/es2.0/)
-    - [GLSL ES 1.0](https://registry.khronos.org/OpenGL/specs/es/2.0/GLSL_ES_Specification_1.00.pdf) - coincides with opengl es 2.0
+    - [GLSL ES 1.0](https://registry.khronos.org/OpenGL/specs/es/2.0/GLSL_ES_Specification_1.00.pdf) - coincides with opengl es 2.0 and glsl 1.2 (desktop)
   - _Extension Libraries_
     - [GLU 1.3](https://registry.khronos.org/OpenGL/specs/gl/glu1.3.pdf)
     - [GLUT API v3](https://www.opengl.org/resources/libraries/glut/spec3/spec3.html) [[ _pdf_ ](https://www.opengl.org/resources/libraries/glut/glut-3.spec.pdf)]

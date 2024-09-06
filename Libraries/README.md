@@ -1,7 +1,7 @@
 C Libraries
 ===========
 
-OpenGL
+[OpenGL](https://www.khronos.org/opengl/wiki/Main_Page)
 ------
   - _Specifications_
     - [OpenGL 1.0](https://registry.khronos.org/OpenGL/specs/gl/glspec10.pdf)

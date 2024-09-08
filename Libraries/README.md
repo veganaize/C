@@ -25,7 +25,8 @@ C Libraries
     - [GLX 1.4](https://registry.khronos.org/OpenGL/specs/gl/glx1.4.pdf)
   - _Learning_
     - The Red Book
-      - ( _[online html](https://web.archive.org/web/20131009113357id_/https://fly.cc.fer.hr/~unreal/theredbook/)_ )
-      - ( _[code samples](https://www.opengl.org/archives/resources/code/samples/redbook/)_ )
-      - ( _[pdf](https://w2.mat.ucsb.edu/594cm/2009/docs/RedBook.pdf)_ )
-      - ( _[zipped html book](web.archive.org/web/20130430205318id_/http://fly.cc.fer.hr/~unreal/theredbook/theredbook.zip)_ )
+      - [online html](https://web.archive.org/web/20131009113357id_/https://fly.cc.fer.hr/~unreal/theredbook/)
+      - [code samples](https://www.opengl.org/archives/resources/code/samples/redbook/)
+      - [pdf](https://w2.mat.ucsb.edu/594cm/2009/docs/RedBook.pdf)
+      - [zipped html book](web.archive.org/web/20130430205318id_/http://fly.cc.fer.hr/~unreal/theredbook/theredbook.zip)
+      - 9th ed code samples ( [_zipped_](http://opengl-redbook.com/OGLPG-9th-Edition.zip) ) ( [_github_](https://github.com/openglredbook/examples) )

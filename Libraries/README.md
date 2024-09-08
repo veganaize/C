@@ -20,8 +20,12 @@ C Libraries
   - _Extension Libraries_
     - [GLU 1.3](https://registry.khronos.org/OpenGL/specs/gl/glu1.3.pdf)
     - GLUT
-      - [GLUT API](https://www.opengl.org/resources/libraries/glut/glut-3.spec.pdf) [[ _online_ ](https://www.opengl.org/resources/libraries/glut/spec3/spec3.html)]
+      - [GLUT API](https://www.opengl.org/resources/libraries/glut/glut-3.spec.pdf) ( [_online html_](https://www.opengl.org/resources/libraries/glut/spec3/spec3.html) )
       - [freeglut API](https://freeglut.sourceforge.net/docs/api.php)
     - [GLX 1.4](https://registry.khronos.org/OpenGL/specs/gl/glx1.4.pdf)
   - _Learning_
-    - [Redbook](https://w2.mat.ucsb.edu/594cm/2009/docs/RedBook.pdf) (_[code samples](https://www.opengl.org/archives/resources/code/samples/redbook/)_) (_[zipped html book](web.archive.org/web/20130430205318id_/http://fly.cc.fer.hr/~unreal/theredbook/theredbook.zip)_)
+    - The Red Book
+      - ( _[online html](https://web.archive.org/web/20131009113357id_/https://fly.cc.fer.hr/~unreal/theredbook/)_ )
+      - ( _[code samples](https://www.opengl.org/archives/resources/code/samples/redbook/)_ )
+      - ( _[pdf](https://w2.mat.ucsb.edu/594cm/2009/docs/RedBook.pdf)_ )
+      - ( _[zipped html book](web.archive.org/web/20130430205318id_/http://fly.cc.fer.hr/~unreal/theredbook/theredbook.zip)_ )

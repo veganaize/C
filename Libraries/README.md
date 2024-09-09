@@ -30,3 +30,9 @@ C Libraries
       - [pdf](https://w2.mat.ucsb.edu/594cm/2009/docs/RedBook.pdf)
       - [zipped html book](web.archive.org/web/20130430205318id_/http://fly.cc.fer.hr/~unreal/theredbook/theredbook.zip)
       - 9th ed code samples ( [_zipped_](http://opengl-redbook.com/OGLPG-9th-Edition.zip) ) ( [_github_](https://github.com/openglredbook/examples) )
+    - NeHe
+      - [Online tutorials](http://nehe.gamedev.net/)
+      - [OpenGL book](web.archive.org/web/20100706105235id_/http://nehe.gamedev.net/files/resources/nehe_opengl_letter_book_pdf.zip) - zipped letter pdf
+    - Wikibooks
+      - [OpenGL Programming](https://en.wikibooks.org/wiki/OpenGL_Programming)
+      - [GLSL Programming](https://en.wikibooks.org/wiki/GLSL_Programming)

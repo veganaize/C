@@ -30,12 +30,15 @@ C Libraries
       - [pdf](https://w2.mat.ucsb.edu/594cm/2009/docs/RedBook.pdf)
       - [zipped html book](web.archive.org/web/20130430205318id_/http://fly.cc.fer.hr/~unreal/theredbook/theredbook.zip)
       - 9th ed code samples ( [_zipped_](http://opengl-redbook.com/OGLPG-9th-Edition.zip) ) ( [_github_](https://github.com/openglredbook/examples) )
-    - [Introduction to Computer Graphics](https://math.hws.edu/eck/cs424/graphicsbook-1.3/index.html) - eck
-    - [Fundamental OpenGL Tutorials and Notes](http://www.songho.ca/opengl/index.html) - songho
-    - [Learning Modern 3D Graphics Programming](https://paroj.github.io/gltut/index.html) ( [_github_](https://github.com/paroj/gltut) )
-    - NeHe
-      - [Online tutorials](http://nehe.gamedev.net/)
-      - [OpenGL book](web.archive.org/web/20100706105235id_/http://nehe.gamedev.net/files/resources/nehe_opengl_letter_book_pdf.zip) - zipped letter pdf
     - Wikibooks
       - [OpenGL Programming](https://en.wikibooks.org/wiki/OpenGL_Programming)
       - [GLSL Programming](https://en.wikibooks.org/wiki/GLSL_Programming)
+    - Slides
+      - [Everything you ever wanted to know about collision detection](https://courses.cs.duke.edu/spring08/cps124/notes/13_collisions/collision_detection.pdf)
+    - Tutorials
+      - [openglbook.com](https://openglbook.com/the-book.html)
+      - [Lighthouse3d](http://www.lighthouse3d.com/tutorials/) - includes glut & glsl tutorials
+      - [NeHe](http://nehe.gamedev.net/) ( [_zipped letter pdf_](web.archive.org/web/20100706105235id_/http://nehe.gamedev.net/files/resources/nehe_opengl_letter_book_pdf.zip) )
+      - [Learning Modern 3D Graphics Programming](https://paroj.github.io/gltut/index.html) ( [_github_](https://github.com/paroj/gltut) )
+      - [Fundamental OpenGL Tutorials and Notes](http://www.songho.ca/opengl/index.html) - songho
+      - [Introduction to Computer Graphics](https://math.hws.edu/eck/cs424/graphicsbook-1.3/index.html) - eck

@@ -38,7 +38,7 @@ C Libraries
     - Tutorials
       - [openglbook.com](https://openglbook.com/the-book.html)
       - [Lighthouse3d](http://www.lighthouse3d.com/tutorials/) - includes glut & glsl tutorials
-      - [NeHe](http://nehe.gamedev.net/) ( [_zipped letter pdf_](web.archive.org/web/20100706105235id_/http://nehe.gamedev.net/files/resources/nehe_opengl_letter_book_pdf.zip) )
+      - [NeHe](http://nehe.gamedev.net/) ( [_zipped letter pdf_](https://web.archive.org/web/20100706105235id_/http://nehe.gamedev.net/files/resources/nehe_opengl_letter_book_pdf.zip) )
       - [Learning Modern 3D Graphics Programming](https://paroj.github.io/gltut/index.html) ( [_github_](https://github.com/paroj/gltut) )
       - [Fundamental OpenGL Tutorials and Notes](http://www.songho.ca/opengl/index.html) - songho
       - [Introduction to Computer Graphics](https://math.hws.edu/eck/cs424/graphicsbook-1.3/index.html) - eck

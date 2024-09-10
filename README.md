@@ -20,6 +20,10 @@
 * The C Book [[_online_](https://publications.gbdirect.co.uk/c_book/)] [[_revised pdf_](https://github.com/wardvanwanrooij/thecbook)]
 * [C Programming](https://en.wikibooks.org/wiki/C_Programming) - wikibook
 
+### Tutorials
+* [Beginner's Guide to Linkers](https://www.lurklurk.org/linkers/linkers.html)
+
+
 ---
 
 ### Conventions
@@ -27,6 +31,7 @@
 * [JPL C Coding Standard](https://andrewbanks.com/wp-content/uploads/2019/07/JPL_Coding_Standard_C.pdf) (3/2009)
 * [JSF AV C++ Coding Standard](https://www.stroustrup.com/JSF-AV-rules.pdf) (12/2005)
 * [Reserved Names](https://www.gnu.org/software/libc/manual/html_node/Reserved-Names.html) (gnu c library)
+
 
 ---
 

@@ -8,13 +8,13 @@ C Libraries
     - [OpenGL 2.1](https://registry.khronos.org/OpenGL/specs/gl/glspec21.pdf)
     - [OpenGL 2.1 Reference Pages](https://registry.khronos.org/OpenGL-Refpages/gl2.1/) - includes glx & glu
     - [OpenGL Shading Language 1.2](https://registry.khronos.org/OpenGL/specs/gl/GLSLangSpec.1.20.pdf) - coincides with opengl 2.1
-    - [OpenGL 3.2 API Quick Reference](https://www.khronos.org/files/opengl-quick-reference-card.pdf)
+    - [OpenGL 3.2 API Quick Reference](https://www.khronos.org/files/opengl-quick-reference-card.pdf) - last apple stock
     - [OpenGL 3.3 (compatibility)](https://registry.khronos.org/OpenGL/specs/gl/glspec33.compatibility.pdf)
     - [OpenGL 3.3 (core)](https://registry.khronos.org/OpenGL/specs/gl/glspec33.core.pdf)
     - [OpenGL Shading Language 3.3](https://registry.khronos.org/OpenGL/specs/gl/GLSLangSpec.3.30.pdf)
     - [OpenGL 4.1 API Quick Reference](https://www.khronos.org/files/opengl41-quick-reference-card.pdf)
     - [OpenGL 4.1 (compatibility)](https://registry.khronos.org/OpenGL/specs/gl/glspec41.compatibility.pdf)
-    - [OpenGL 4.1 (core)](https://registry.khronos.org/OpenGL/specs/gl/glspec41.core.pdf) - full es 2.0 compatible; last apple compatible
+    - [OpenGL 4.1 (core)](https://registry.khronos.org/OpenGL/specs/gl/glspec41.core.pdf) - full es 2.0 compatible; last apple upgrade
     - [OpenGL 4.x Reference Pages](https://registry.khronos.org/OpenGL-Refpages/gl4/)
     - [OpenGL Shading Language 4.1](https://registry.khronos.org/OpenGL/specs/gl/GLSLangSpec.4.10.pdf)
   - _Extension Libraries_

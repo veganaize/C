@@ -20,6 +20,7 @@
         _Includes C compiler and everything needed...  
         Uninstall ALL "Visual C++ 2010 Redistributables" from control panel FIRST!  
         Then burn/mount the image and run X:\Setup\SDKSetup.exe directly._
+      - [C++11 features in VC++ 2010 ](http://web.archive.org/web/20221127094629id_/https://learn.microsoft.com/en-us/previous-versions/hh567368(v=vs.140))
     * __2003__
       - [VC 2003 Toolkit](https://virtuallyfun.com/2016/09/17/visual-c-toolkit-2003/)  
         _Older alternative which will compile for Win9x/NT, as well..._  

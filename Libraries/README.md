@@ -42,3 +42,5 @@ C Libraries
       - [Learning Modern 3D Graphics Programming](https://paroj.github.io/gltut/index.html) ( [_github_](https://github.com/paroj/gltut) )
       - [Fundamental OpenGL Tutorials and Notes](http://www.songho.ca/opengl/index.html) - songho
       - [Introduction to Computer Graphics](https://math.hws.edu/eck/cs424/graphicsbook-1.3/index.html) - eck
+  - _Tools_
+    - [Shader Editor](https://f-droid.org/packages/de.markusfisch.android.shadereditor/) - create and edit GLSL shaders (android 4.0+)

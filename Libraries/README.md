@@ -37,6 +37,7 @@ C Libraries
     - Slides
       - [Everything you ever wanted to know about collision detection](https://courses.cs.duke.edu/spring08/cps124/notes/13_collisions/collision_detection.pdf)
     - Tutorials
+      - [Graphics Programming](https://www.cprogramming.com/graphics-programming.html) - cprogramming.com
       - [openglbook.com](https://openglbook.com/the-book.html)
       - [Lighthouse3d](http://www.lighthouse3d.com/tutorials/) - includes glut & glsl tutorials
       - [NeHe](http://nehe.gamedev.net/) ( [_zipped letter pdf_](https://web.archive.org/web/20100706105235id_/http://nehe.gamedev.net/files/resources/nehe_opengl_letter_book_pdf.zip) )

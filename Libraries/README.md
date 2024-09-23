@@ -18,6 +18,7 @@ C Libraries
     - [OpenGL 4.x Reference Pages](https://registry.khronos.org/OpenGL-Refpages/gl4/)
     - [OpenGL Shading Language 4.1](https://registry.khronos.org/OpenGL/specs/gl/GLSLangSpec.4.10.pdf)
   - _Extension Libraries_
+    - [EGL](https://registry.khronos.org/EGL/sdk/docs/man/) - reference pages
     - [GLU 1.3](https://registry.khronos.org/OpenGL/specs/gl/glu1.3.pdf)
     - GLUT
       - [GLUT API](https://www.opengl.org/resources/libraries/glut/glut-3.spec.pdf) ( [_online html_](https://www.opengl.org/resources/libraries/glut/spec3/spec3.html) )

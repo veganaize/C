@@ -34,8 +34,11 @@
       - [Managing Projects with NMAKE](https://et.engr.iupui.edu/~dskim/downloadable/reference_Nmake.pdf)
   * _GCC_
     * __MSYS__
-      - [MinGW/MSYS](https://sourceforge.net/projects/mingw/files/Installer) - x86 (32-bit)
+      - [MinGW/MSYS](https://sourceforge.net/projects/mingw/files/Installer) - x86 (only)
       - [MSYS2](https://www.msys2.org/) - x86 & x64
+        - Last Windows 8.1 [installer](https://github.com/msys2/msys2-installer/releases/tag/2024-01-13)
+        - Last Windows 7/8.0 [installer](https://github.com/msys2/msys2-installer/releases/tag/2022-10-28)
+          - `$ pacman --noconfirm -Sy msys2-runtime-3.4 msys2-runtime-3.4-devel`
       - [TDM-GCC](https://jmeubank.github.io/tdm-gcc/)
     * __Dev-C++__
       - [Bloodshed](https://bloodshed.net/)

@@ -44,7 +44,7 @@
       - [Bloodshed](https://bloodshed.net/)
       - [wxDev](http://wxdsgn.sourceforge.net/)
       - [Orwell](https://orwelldevcpp.blogspot.com/)
-      - [Embarcadero](https://www.embarcadero.com/cn/free-tools/dev-cpp)
+      - [Embarcadero](https://github.com/Embarcadero/Dev-Cpp)
     * __POSIX Subsystem__
       - [Cygwin](https://www.cygwin.com/)
   * _BORLAND_

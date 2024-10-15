@@ -6,8 +6,8 @@ _Includes:_
 `/X`         - ignore standard include places  
   
 _Warnings:_  
-`/W3`    - production quality warnings (use this)
-`/W4`    - informational warning level (lint-like)
+`/W3`    - production quality warnings (use this)  
+`/W4`    - informational warning level (lint-like)  
 `/Wall`  - all warnings (/W4, including warnings that are off by default)  
 `/WX`    - warnings as errors  
 

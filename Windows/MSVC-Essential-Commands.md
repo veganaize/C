@@ -6,9 +6,10 @@ _Includes:_
 `/X`         - ignore standard include places  
   
 _Warnings:_  
-`/Wall`  - all warnings  
-`/W4`    - warning level  
-`/WX`    - warnings as erros  
+`/W3`    - production quality warnings (use this)
+`/W4`    - informational warning level (lint-like)
+`/Wall`  - all warnings (/W4, including warnings that are off by default)  
+`/WX`    - warnings as errors  
 
 _Optimizations:_  
 `/O2`    - maximum optimizations (favor speed)  

@@ -12,6 +12,7 @@
 * [C99 Standard](http://www.open-std.org/jtc1/sc22/wg14/www/docs/n1256.pdf)
 * [C99 Rationale](https://www.open-std.org/jtc1/sc22/wg14/www/docs/C99RationaleV5.10.pdf)
 * [New in C9X](https://www.open-std.org/jtc1/sc22/wg14/www/newinc9x.htm)
+* [C11 Overview](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3631.pdf) - dr. dobb's
 * [C11 Standard](https://www.open-std.org/jtc1/sc22/wg14/www/docs/n1570.pdf)
 * [C17 Standard](https://web.archive.org/web/20181230041359id_/http://www.open-std.org/jtc1/sc22/wg14/www/abq/c17_updated_proposed_fdis.pdf)
 * [C23 Standard](https://www.open-std.org/jtc1/sc22/wg14/www/docs/n3220.pdf)
@@ -19,6 +20,7 @@
 ### Books
 * The C Book [[_online_](https://publications.gbdirect.co.uk/c_book/)] [[_revised pdf_](https://github.com/wardvanwanrooij/thecbook)]
 * [C Programming](https://en.wikibooks.org/wiki/C_Programming) - wikibook
+* [An Introduction to GCC](https://www.seas.upenn.edu/~ese5320/fall2021/handouts/_downloads/788d972ffe62083c2f1e3f86b7c03f5d/gccintro.pdf)
 
 ### Tutorials
 * [Beginner's Guide to Linkers](https://www.lurklurk.org/linkers/linkers.html)

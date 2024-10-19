@@ -25,6 +25,7 @@
 
 ### Tutorials
 * [Beginner's Guide to Linkers](https://www.lurklurk.org/linkers/linkers.html)
+* [comp.lang.c Frequently Asked Questions](https://c-faq.com/)
 
 
 ---

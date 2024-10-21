@@ -50,6 +50,7 @@ _C++:_
 `/TC`    - compile files as .c  
 `/TP`    - compile files as .cpp  
 `/std:`<`c++14` (default) | `c++17` | `c++latest`>  
+`/EHsc`  - c++ error handling (no seh exceptions); `extern "C"` defaults to `nothrow`  
 
 
 `DUMPBIN.EXE`

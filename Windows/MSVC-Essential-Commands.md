@@ -6,15 +6,16 @@ _Includes:_
 `/X`         - ignore standard include places  
   
 _Warnings:_  
-`/W3`    - production quality warnings (use this)  
+`/W3`    - production quality warnings (use at least this)  
 `/W4`    - informational warning level (lint-like)  
 `/Wall`  - all warnings (/W4, including warnings that are off by default)  
 `/WX`    - warnings as errors  
 
 _Optimizations:_  
-`/O2`    - maximum optimizations (favor speed)  
-`/GA`    - optimize for windows application  
-`/arch:` - minimum cpu architecture: <`IA32` (xp) | `SSE` (pentium3) | `SSE2` (default) | `AVX` | `AVX2` | `AVX512`>  
+`/O2`        - maximum optimizations (favor speed)  
+`/GA`        - optimize for windows application  
+`/arch:`     - minimum cpu architecture: <`IA32` (xp) | `SSE` (pentium3) | `SSE2` (default) | `AVX` | `AVX2` | `AVX512`>  
+`/F<bytes>`  - set stack size; nearest 4-byte multiple; default is 1 MB 
   
 _Linking:_  
 `/MD`    - msvcrt.lib (dynamically link c lib)  

@@ -41,6 +41,7 @@
 ---
 
 ### Tools
+* [Tiny C Compiler (TCC)](https://bellard.org/tcc/)
 * [GNU Make](https://www.gnu.org/software/make/) [[_makefile conventions_](https://www.gnu.org/prep/standards/html_node/Makefile-Conventions.html)] [[_manual - single page_](https://www.gnu.org/software/make/manual/make.html)] [[_manual - multi page_](https://www.gnu.org/software/make/manual/html_node/index.html)] [[_POSIX.1-2017_](https://pubs.opengroup.org/onlinepubs/9699919799/utilities/make.html)]
 * [pkgconf](https://github.com/pkgconf/pkgconf)
 * [GCC Optimizations](https://wiki.gentoo.org/wiki/GCC_optimization) - gentoo wiki

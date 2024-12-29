@@ -47,6 +47,7 @@
 
 * [C++ Language Tutorial](https://cplusplus.com/doc/tutorial/) - cplusplus.com
 * [C++ Programming](https://en.wikibooks.org/wiki/C%2B%2B_Programming) - wikibooks.org
+* [An Introduction to the Imperative Part of C++](http://www.doc.ic.ac.uk/~wjk/C++Intro/) - miller
 * [The GNU C++ Library](https://gcc.gnu.org/onlinedocs/libstdc++/) - gnu.org
 * A Tour of C++, Bjarne Stroustrup
   - [Part 1: The Basics](https://isocpp.org/images/uploads/2-Tour-Basics.pdf)

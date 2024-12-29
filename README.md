@@ -24,6 +24,7 @@
 * [An Introduction to GCC](https://www.seas.upenn.edu/~ese5320/fall2021/handouts/_downloads/788d972ffe62083c2f1e3f86b7c03f5d/gccintro.pdf)
 
 ### Tutorials
+* [C, C++ Programming Tutorials](https://www.cprogramming.com/tutorial.html) - cprogramming.com
 * [Beginner's Guide to Linkers](https://www.lurklurk.org/linkers/linkers.html)
 * [comp.lang.c Frequently Asked Questions](https://c-faq.com/) (or [_other version_](http://www.lysator.liu.se/c/c-faq/c-faq-toc.html))
 

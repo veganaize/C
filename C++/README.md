@@ -46,6 +46,8 @@
 -----------
 
 * [C++ Language Tutorial](https://cplusplus.com/doc/tutorial/) - cplusplus.com
+* [C++ Programming](https://en.wikibooks.org/wiki/C%2B%2B_Programming) - wikibooks.org
+* [The GNU C++ Library](https://gcc.gnu.org/onlinedocs/libstdc++/) - gnu.org
 * A Tour of C++, Bjarne Stroustrup
   - [Part 1: The Basics](https://isocpp.org/images/uploads/2-Tour-Basics.pdf)
   - [Part 2: Abstraction Mechanisms](https://isocpp.org/images/uploads/3-Tour-Abstr.pdf)

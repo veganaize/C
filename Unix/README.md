@@ -24,7 +24,7 @@ Terminal
 --------
 
 * N/CURSES
-  - [***Table Reference***](https://www.c-for-dummies.com/ncurses/tables/) - Guide to Ncurses Programming
+  - [***Table Reference***](https://www.c-for-dummies.com/ncurses/tables/) - Guide to Ncurses Programming ([source code](https://www.c-for-dummies.com/ncurses/source_code/index.php))
   - [***ncurses man pages***](https://invisible-island.net/ncurses/man/index.html)
     - [ncurses](https://invisible-island.net/ncurses/man/ncurses.3x.html)
     - [panel](https://invisible-island.net/ncurses/man/panel.3x.html)

@@ -17,8 +17,35 @@ Single UNIX Specification
   - [System Headers](https://pubs.opengroup.org/onlinepubs/7908799/headix.html)
   - [System Interface & Headers](https://pubs.opengroup.org/onlinepubs/7908799/xshix.html)
   - [X/Open Curses](https://pubs.opengroup.org/onlinepubs/7908799/cursesix.html)
-* [X/Open Curses, 2009](https://pubs.opengroup.org/onlinepubs/9699909599/toc.pdf) - pdf
 * [Version 5, 2024](https://pubs.opengroup.org/onlinepubs/9799919799/) - POSIX.1-2024
+
+
+Terminal
+--------
+
+* N/CURSES
+  - [***Table Reference***](https://www.c-for-dummies.com/ncurses/tables/) - Guide to Ncurses Programming
+  - [***ncurses man pages***](https://invisible-island.net/ncurses/man/index.html)
+    - [ncurses](https://invisible-island.net/ncurses/man/ncurses.3x.html)
+    - [panel](https://invisible-island.net/ncurses/man/panel.3x.html)
+    - [form](https://invisible-island.net/ncurses/man/form.3x.html)
+    - [menu](https://invisible-island.net/ncurses/man/menu.3x.html)
+  - [Curses Library Functions](https://docs.oracle.com/cd/E36784_01/html/E36880/curses-3curses.html#) - Solaris 11
+  - [The Curses Library](https://web.archive.org/web/20210723185403id_/http://publibn.boulder.ibm.com/doc_link/en_US/a_doc_lib/aixprggd/genprogc/curses.htm) - AIX
+  - [SVR4 libocurses](http://uw714doc.sco.com/en/man/html.3ocurses/Intro.3ocurses.html) - 2004, SCO UnixWare 7 (and earlier)
+    - [curses](http://uw714doc.sco.com/en/man/html.3ocurses/curses.3ocurses.html)
+    - [forms](http://uw714doc.sco.com/en/man/html.3ocurses/forms.3ocurses.html)
+    - [menus](http://uw714doc.sco.com/en/man/html.3ocurses/menus.3ocurses.html)
+    - [panels](http://uw714doc.sco.com/en/man/html.3ocurses/panels.3ocurses.html)
+  - [curses.h man page](http://web.archive.org/web/20220128222637id_/http://polarhome.com/service/man/?qf=curses&tf=2&of=IRIX&sf=3X) - IRIX64
+  - [Screen Updating and Cursor Movement Optimization](https://docs-archive.freebsd.org/44doc/psd/19.curses/paper.pdf) - 4.4BSD ([ascii](https://web.archive.org/web/20060220184656id_/http://docs.freebsd.org/44doc/psd/19.curses/paper.ascii.gz))
+  - [***NCURSES Programming HOWTO***](https://invisible-island.net/ncurses/howto/NCURSES-Programming-HOWTO.html) - 2.x ([1.9](https://tldp.org/HOWTO/NCURSES-Programming-HOWTO/))
+  - [***Writing Programs with NCURSES***](https://invisible-island.net/ncurses/ncurses-intro.html) - 1.9.9x
+  - [Introduction to the Unix Curses Library](http://heather.cs.ucdavis.edu/matloff/public_html/UnixAndC/CLanguage/Curses.pdf) - 2011
+  - [X/Open Curses](https://pubs.opengroup.org/onlinepubs/009638999/toc.pdf) - 1996
+  - [X/Open Curses](https://pubs.opengroup.org/onlinepubs/9699909599/toc.pdf) - 2009
+  - [A Hacker's Guide to NCURSES Internals](https://invisible-island.net/ncurses/hackguide.html)
+
 
 X11
 ---

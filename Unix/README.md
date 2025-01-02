@@ -17,6 +17,7 @@ Single UNIX Specification
   - [System Headers](https://pubs.opengroup.org/onlinepubs/7908799/headix.html)
   - [System Interface & Headers](https://pubs.opengroup.org/onlinepubs/7908799/xshix.html)
   - [X/Open Curses](https://pubs.opengroup.org/onlinepubs/7908799/cursesix.html)
+* [X/Open Curses, 2009](https://pubs.opengroup.org/onlinepubs/9699909599/toc.pdf) - pdf
 * [Version 5, 2024](https://pubs.opengroup.org/onlinepubs/9799919799/) - POSIX.1-2024
 
 X11

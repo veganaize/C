@@ -7,6 +7,18 @@ Unix
   - [GNU Autotools book](https://www.sourceware.org/autobook/)
 
 
+Single UNIX Specification
+-------------------------
+
+* [Version 2, 1997](https://pubs.opengroup.org/onlinepubs/7908799/index.html)
+  - [Base Definitions](https://pubs.opengroup.org/onlinepubs/7908799/xbdix.html)
+  - [Commands & Utilities](https://pubs.opengroup.org/onlinepubs/7908799/xcuix.html)
+  - [Networking Services](https://pubs.opengroup.org/onlinepubs/7908799/xnsix.html)
+  - [System Headers](https://pubs.opengroup.org/onlinepubs/7908799/headix.html)
+  - [System Interface & Headers](https://pubs.opengroup.org/onlinepubs/7908799/xshix.html)
+  - [X/Open Curses](https://pubs.opengroup.org/onlinepubs/7908799/cursesix.html)
+* [Version 5, 2024](https://pubs.opengroup.org/onlinepubs/9799919799/) - POSIX.1-2024
+
 X11
 ---
 

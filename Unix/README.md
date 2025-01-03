@@ -57,6 +57,7 @@ Systems Programming
 -------------------
 
 * [Intro to Systems Programming](https://people.scs.carleton.ca/~claurend/Courses/COMP2401/Notes/) - comp2401
+* [Berkeley Software Architecture Manual - 4.4BSD Edition](https://docs-archive.freebsd.org/44doc/psd/05.sysman/paper.pdf)
 ---
 * [Unix Programmer's Manual](https://www.singlix.com/trdos/archive/pdf_archive/unix_v1_programmers_manual.pdf) - 1st edition
 * [Unix Programmer's Manual](https://dspinellis.github.io/unix-v3man/v3man.pdf) - 3rd edition

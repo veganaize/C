@@ -18,6 +18,7 @@ _Optimizations:_
 `/F<bytes>`  - set stack size; nearest 4-byte multiple; default is 1 MB 
   
 _Linking:_  
+`/c`     - compile only, no link
 `/MD`    - msvcrt.lib (dynamically link c lib)  
 `/MT`    - libcmt.lib (statically link c lib)  
 `/LD`    - create .dll  

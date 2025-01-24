@@ -48,3 +48,4 @@
 * [GCC Optimizations](https://wiki.gentoo.org/wiki/GCC_optimization) - gentoo wiki
 * [GCC Opimization Options](https://gcc.gnu.org/onlinedocs/gcc/Optimize-Options.html) - gnu gcc docs
 * [SonarQube 8.9 (community edition)](https://binaries.sonarsource.com/Distribution/sonarqube/sonarqube-8.9.10.61524.zip) - last version with free c/c++ linting
+* [ClangFormat](https://clang.llvm.org/docs/ClangFormat.html)

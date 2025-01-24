@@ -10,6 +10,7 @@ _Warnings:_
 `/W4`    - informational warning level (lint-like)  
 `/Wall`  - all warnings (/W4, including warnings that are off by default)  
 `/WX`    - warnings as errors  
+`/analyze:plugin EspXEngine.dll` - enable c++ core guidelines checker  
 
 _Optimizations:_  
 `/O2`        - maximum optimizations (favor speed)  
@@ -53,7 +54,6 @@ _C++:_
 `/TP`    - compile files as .cpp  
 `/std:`<`c++14` (default) | `c++17` | `c++latest`>  
 `/EHsc`  - c++ error handling (no seh exceptions); `extern "C"` defaults to `nothrow`  
-`/analyze:plugin EspXEngine.dll` - enable c++ core guidelines checker
 
 
 `DUMPBIN.EXE`

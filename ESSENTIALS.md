@@ -14,16 +14,14 @@ _Quick reference for C fundamentals_
 void qsort(void * array,
            size_t element_count,
            size_t element_bytesize,
-           int (*compare_function)(const void * a, const void * b)  /* returns value <, >, or == 0 */
-);
+           int (*compare_function)(const void * a, const void * b));  /* returns value <, >, or == 0 */
 
 /* bsearch, despite name, is NOT required to implement binary search -- no complexity guarantees. */
 void * bsearch(const void * keyword,
                const void * array,
                size_t element_count,
                size_t element_bytesize,
-               int (*compare_function)(const void * keyword, const void * element)  /* returns value <, >, or == 0 */
-);
+               int (*compare_function)(const void * keyword, const void * element));  /* returns value <, >, or == 0 */
 
 
 int compare_ints(const void * a, const void * b)

@@ -4,6 +4,18 @@
 _Quick reference for C fundamentals_
 
 
+[Preprocessor]()
+--------------
+
+[Header Include Guards](https://en.wikipedia.org/wiki/Include_guard)
+```c
+#ifndef FILENAME_H
+#define FILENAME_H
+    /*...*/
+#endif  /* FILENAME_H */
+```
+
+
 [Search & Sort](https://en.cppreference.com/w/c/algorithm)
 ---------------
 

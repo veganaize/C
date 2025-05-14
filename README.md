@@ -6,6 +6,7 @@
 * [C Reference](https://en.cppreference.com/w/c) - cppreference.com [[_offline chm_](https://github.com/crea7or/cppreference2mshelp/raw/master/cppreference.chm)]
 * [GNU C Manual](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.pdf) - gnu.org
 * [The C Library Reference Guide](https://web.archive.org/web/20150118141700id_/http://www.acm.uiuc.edu/webmonkeys/book/c_guide/index.html) - eric huss
+* [Compatibility of C and C++](https://en.wikipedia.org/wiki/Compatibility_of_C_and_C%2B%2B) - wikipedia
 
 ### Standard
 * [C89 Standard](https://web.archive.org/web/20161223125339id_/http://flash-gordon.me.uk/ansi.c.txt)

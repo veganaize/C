@@ -14,6 +14,12 @@ _Quick reference for C fundamentals_
     /*...*/
 #endif  /* FILENAME_H */
 ```
+[Effective Block Comment](https://gcc.gnu.org/onlinedocs/cpp/Deleted-Code.html) (Compatible with nested `/*...*/` comments but needs balanced single quotes.)
+```c
+#if 0
+    /*...*/
+#endif
+```
 
 
 [Search & Sort](https://en.cppreference.com/w/c/algorithm)

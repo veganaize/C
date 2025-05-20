@@ -1,5 +1,5 @@
 Data Structures & Algorithms in C
 =================================
 
-* [LIST_H](https://github.com/veganaize/LIST_H)  
-  C89 header-only implementation of singly-linked lists.
+* [C_HELPING_HEADERS](https://github.com/veganaize/C_HELPING_HEADERS)  
+  C89 header-only implementations of essential abstract data types. (Also compatible with C++98)

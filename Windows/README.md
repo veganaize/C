@@ -29,6 +29,8 @@
         _Older alternative which will compile for Win9x/NT, as well..._  
       - [PSDK 2003 SP1](https://www.microsoft.com/en-us/download/details.aspx?id=15656)  
         _Install this with the 2003 toolkit._
+      - [.NET Framework SDK Version 1.1](https://web.archive.org/web/20210820162511id_/https://download.microsoft.com/download/5/2/0/5202f918-306e-426d-9637-d7ee26fbe507/setup.exe)  
+        _May be needed for a complete installation._
     * __6.0__
       - [SP6](http://web.archive.org/web/20160222035203id_/http://download.microsoft.com/download/1/9/f/19fe4660-5792-4683-99e0-8d48c22eed74/Vs6sp6.exe)
     * __NMAKE__

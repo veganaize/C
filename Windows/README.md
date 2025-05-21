@@ -33,6 +33,7 @@
         _May be needed for a complete installation._
     * __6.0__
       - [SP6](http://web.archive.org/web/20160222035203id_/http://download.microsoft.com/download/1/9/f/19fe4660-5792-4683-99e0-8d48c22eed74/Vs6sp6.exe)
+      - [vc6redistsetup_enu.exe](https://web.archive.org/web/20120610063726id_/http://download.microsoft.com/download/vc60pro/update/1/w9xnt4/en-us/vc6redistsetup_enu.exe)
     * __NMAKE__
       - [NMake 1.5](https://web.archive.org/web/20060615060342id_/http://download.microsoft.com/download/vc15/Patch/1.52/W95/EN-US/Nmake15.exe) - _32-bit (VC++ 2.0)_
       - [NMAKE Reference](https://learn.microsoft.com/en-us/cpp/build/reference/nmake-reference) - Microsoft
@@ -40,6 +41,7 @@
   * _GCC_
     * __MSYS__
       - [MinGW/MSYS](https://sourceforge.net/projects/mingw/files/Installer) - x86 (only)
+        - Most recent (2017) [mingw-get-setup.exe](web.archive.org/web/20240225040417id_/https://osdn.dl.osdn.net/mingw/68260/mingw-get-setup.exe)
       - [MSYS2](https://www.msys2.org/) - x86 & x64
         - Last Windows 8.1 [installer](https://github.com/msys2/msys2-installer/releases/tag/2024-01-13)
         - Last Windows 7/8.0 [installer](https://github.com/msys2/msys2-installer/releases/tag/2022-10-28)

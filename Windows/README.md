@@ -41,7 +41,7 @@
   * _GCC_
     * __MSYS__
       - [MinGW/MSYS](https://sourceforge.net/projects/mingw/files/Installer) - x86 (only)
-        - Most recent (2017) [mingw-get-setup.exe](https://web.archive.org/web/20240225040417id_/https://osdn.dl.osdn.net/mingw/68260/mingw-get-setup.exe)
+        - ~~Most recent (2017) [mingw-get-setup.exe](https://web.archive.org/web/20240225040417id_/https://osdn.dl.osdn.net/mingw/68260/mingw-get-setup.exe)~~
       - [MSYS2](https://www.msys2.org/) - x86 & x64
         - Last Windows 8.1 [installer](https://github.com/msys2/msys2-installer/releases/tag/2024-01-13)
         - Last Windows 7/8.0 [installer](https://github.com/msys2/msys2-installer/releases/tag/2022-10-28)

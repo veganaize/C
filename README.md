@@ -39,6 +39,7 @@
 * [JSF AV C++ Coding Standard](https://www.stroustrup.com/JSF-AV-rules.pdf) (12/2005)
 * [Reserved Names](https://www.gnu.org/software/libc/manual/html_node/Reserved-Names.html) (gnu c library)
 * [Linux Kernel Coding Style](https://www.kernel.org/doc/html/latest/process/coding-style.html) (kernel.org)
+* [GNU Coding Standards](https://www.gnu.org/prep/standards/)
 
 
 ---

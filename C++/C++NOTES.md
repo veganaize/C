@@ -24,3 +24,6 @@ C++ Notes
       .size() : size_type
       .swap() : void
       .top() : value_type&
+
+
+* [std::vector](https://cplusplus.com/reference/vector/vector/)

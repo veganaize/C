@@ -8,6 +8,13 @@ C++ Notes
     - Useful for function arguments, to avoid passing a copy
     - Use with `const` to also prevent value modification
 
+
+* [std::pair](https://cplusplus.com/reference/utility/pair/)
+
+      .first
+      .second
+
+
 * [std::stack](https://cplusplus.com/reference/stack/stack/)
 
       .emplace() : void

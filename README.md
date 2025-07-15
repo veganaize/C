@@ -29,6 +29,14 @@
 * [C, C++ Programming Tutorials](https://www.cprogramming.com/tutorial.html) - cprogramming.com
 * [Beginner's Guide to Linkers](https://www.lurklurk.org/linkers/linkers.html)
 * [comp.lang.c Frequently Asked Questions](https://c-faq.com/) (or [_other version_](http://www.lysator.liu.se/c/c-faq/c-faq-toc.html))
+* Debugging
+  - [Debugging programs with gdb](http://web.archive.org/web/20070101051041id_/http://galton.uchicago.edu/~gosset/Compdocs/gdb.html)
+  - [GDB Tutorial](http://web.archive.org/web/20070327064133id_/http://www.cs.princeton.edu/~benjasik/gdb/gdbtut.html) - jasik _([ref card](http://web.archive.org/web/20070409081513id_/http://www.cs.princeton.edu/~benjasik/gdb/gdb.ps))_
+  - [Beej's Quick Guide to GDB](https://beej.us/guide/bggdb/) - beej
+  - [Using GNU's GDB Debugger](https://www.dirac.org/linux/gdb/) - salzman
+  - [RMS's gdb Debugger Tutorial](http://www.unknownroad.com/rtfm/gdbtut/) - schmidt
+  - [Debugging Under Unix: gdb Tutorial](http://web.archive.org/web/20170606215411id_/http://www.cs.usyd.edu.au/~sholden/TEACHING/PP/2000sem2/TUTES/week7/gdb.html) - gilpin
+  - [Guide to Faster, Less Frustrating Debugging](http://heather.cs.ucdavis.edu/matloff/public_html/UnixAndC/CLanguage/Debug.html) - matloff
 
 
 ---
@@ -47,7 +55,7 @@
 ### Tools
 * [Tiny C Compiler (TCC)](https://bellard.org/tcc/)
 * [GNU Make](https://www.gnu.org/software/make/) [[_makefile conventions_](https://www.gnu.org/prep/standards/html_node/Makefile-Conventions.html)] [[_manual - single page_](https://www.gnu.org/software/make/manual/make.html)] [[_manual - multi page_](https://www.gnu.org/software/make/manual/html_node/index.html)] [[_POSIX.1-2017_](https://pubs.opengroup.org/onlinepubs/9699919799/utilities/make.html)]
-* [pkgconf](https://github.com/pkgconf/pkgconf)
+* [pkgconf](https://github.com/pkgconf/pkgconf) / [Guide to pkg-config](https://people.freedesktop.org/~dbn/pkg-config-guide.html)
 * [GCC Optimizations](https://wiki.gentoo.org/wiki/GCC_optimization) - gentoo wiki
 * [GCC Opimization Options](https://gcc.gnu.org/onlinedocs/gcc/Optimize-Options.html) - gnu gcc docs
 * [GCC Static Analyzer](https://gcc.gnu.org/wiki/StaticAnalyzer) ([Options](https://gcc.gnu.org/onlinedocs/gcc/Static-Analyzer-Options.html))

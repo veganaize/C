@@ -50,5 +50,7 @@ C++ Notes
 
 * std::deque
 * std::list
+
+      .splice(position, list[, it_first[, it_last]])  // O(1) if `list` refers to this same list; Optimal for reordering elements
 * std::string, std::wstring, std::basic_string
 * [std::vector](https://cplusplus.com/reference/vector/vector/)

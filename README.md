@@ -24,7 +24,7 @@
 * [C Programming](https://en.wikibooks.org/wiki/C_Programming) - wikibook
 * [An Introduction to GCC](https://www.seas.upenn.edu/~ese5320/fall2021/handouts/_downloads/788d972ffe62083c2f1e3f86b7c03f5d/gccintro.pdf)
 * [Beej's Guide to C Programming](https://beej.us/guide/bgc/) - beej
-* [Modern C](https://inria.hal.science/hal-02383654v2/file/modernC.pdf) - 3rd edition (creative commons)
+* [Modern C](https://inria.hal.science/hal-02383654v2/file/modernC.pdf) - 3rd edition (creative commons) [[_source code_](http://web.archive.org/web/20240501234815id_/https://inria.hal.science/hal-03345464/document)]
 
 ### Tutorials
 * [C, C++ Programming Tutorials](https://www.cprogramming.com/tutorial.html) - cprogramming.com

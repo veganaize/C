@@ -18,11 +18,13 @@
       - [MSVC Essential Commands](MSVC-Essential-Commands.md)
       - [MSVC toolset at the command line](https://docs.microsoft.com/en-us/cpp/build/building-on-the-command-line) - Microsoft
       - [Download last XP-compatible MSVC v19.27 (Build Tools 2019 **\*\*\*v16.7.28\*\*\***)](https://download.visualstudio.microsoft.com/download/pr/2282640c-c74e-4d6a-9710-4eb8fef730e6/dfa5c24fb7aa4d11bf375bd2a46d19d3a1ff907cbc88468b0a50e3d71d53f77a/vs_BuildTools.exe)
+      - [C/C++ language conformance by Visual Studio version](https://learn.microsoft.com/en-us/cpp/overview/visual-cpp-language-conformance?view=msvc-160)
     * __2010__
       - [PSDK 7.1](https://www.microsoft.com/en-us/download/details.aspx?id=8442)  
         _Includes C compiler and everything needed...  
         Uninstall ALL "Visual C++ 2010 Redistributables" from control panel FIRST!  
         Then burn/mount the image and run X:\Setup\SDKSetup.exe directly._
+      - [C++0x Core Language Features In VC10: The Table](https://devblogs.microsoft.com/cppblog/c0x-core-language-features-in-vc10-the-table/)
       - [C++11 features in VC++ 2010 ](http://web.archive.org/web/20221127094629id_/https://learn.microsoft.com/en-us/previous-versions/hh567368(v=vs.140))
     * __2003__
       - [VC 2003 Toolkit](https://archive.org/download/microsoft-visual-c-toolkit-2003/VCToolkitSetup.exe)  

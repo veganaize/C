@@ -9,6 +9,12 @@ C++ Notes
     - Use with `const` to also prevent value modification
 
 
+[Algorithms](https://en.cppreference.com/w/cpp/algorithm.html)
+------------
+
+* [std::max](https://en.cppreference.com/w/cpp/algorithm/max.html)(a, b[, compare])
+
+
 [Associative Containers](https://en.cppreference.com/w/cpp/container.html#Associative_containers)
 ------------------------
 

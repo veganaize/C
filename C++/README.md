@@ -19,6 +19,7 @@
 -----------
 
 * [C++98](https://open-std.org/jtc1/sc22/wg21/docs/wp/pdf/nov97-2/) 1997-11-25 (n1146)
+* [C++03](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1804.pdf) 2005-04-27 (n1804)
 * [C++11](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2012/n3337.pdf) 2012-01-16 (n3337)
 * [C++14](https://wg21.link/n4140) 2014-10-07 (n4140)
 * [C++17](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2017/n4659.pdf) 2017-03-21 (n4659)
@@ -34,6 +35,7 @@
 * [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html) - google
 * [LLVM Coding Standards](https://llvm.org/docs/CodingStandards.html)
 * [PPP Style Guide](https://www.stroustrup.com/Programming/PPP-style.pdf) - stroustrup
+* [Rule of N](https://accu.org/journals/overload/22/120/alday_1896/) - alday
 
 
 ✔️ Testing

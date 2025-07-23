@@ -12,14 +12,14 @@ C++ Notes
 [Associative Containers](https://en.cppreference.com/w/cpp/container.html#Associative_containers)
 ------------------------
 
-|                    | [std::map](http://en.cppreference.com/w/cpp/container/map.html) | [std::unordered_map](https://en.cppreference.com/w/cpp/container/unordered_map.html) _(C++11)_
+|                    | [std::map](http://en.cppreference.com/w/cpp/container/map.html) | [std::unordered_map](https://en.cppreference.com/w/cpp/container/unordered_map.html) <sup>C++11</sup>
 |--------------------|-----------------------------------------------------------------|---------------------------
+| `m[key]`           | O(log n)                                                        | O(1) average, O(n) worst
 | `.at(key)`         | O(log n)                                                        | O(1) average, O(n) worst
 | `.empty()`         | O(1)                                                            | O(1)
 | `.erase(position)` | position: Amoritized O(1); key: O(log n)                        | position: O(1) average, O(n) worst; key: O(key) average, O(n) worst
 | `.find(key)`       | O(log n)                                                        | O(1) average, O(n) worst
 | `.insert(value)`   | [cppreference](http://en.cppreference.com/w/cpp/container/map/insert.html#Complexity) | [cppreference](https://en.cppreference.com/w/cpp/container/unordered_map/insert.html#Complexity)
-| `.operator[key]`   | O(log n)                                                        | O(1) average, O(n) worst
 | `.size()`          | O(1)                                                            | O(1)
 
 * std::multimap, std::multiset
@@ -27,6 +27,7 @@ C++ Notes
 
       .first
       .second
+      std::make_pair(a, b)  // types are deduced (unlike pair<> constructor)
 
 
 [Container Adapters](https://en.cppreference.com/w/cpp/container.html#Container_adaptors)

@@ -1,6 +1,8 @@
 C++ Notes
 =========
 
+* [Operator Precendence](https://en.cppreference.com/w/cpp/language/operator_precedence.html)
+
 * Unary suffix `&`
     - Means "reference to"
     - Access value _without_ `*` prefix

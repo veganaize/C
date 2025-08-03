@@ -64,3 +64,13 @@ C++ Notes
       .splice(position, list[, it_first[, it_last]])  // O(1) if `list` refers to this same list; Optimal for reordering elements
 * std::string, std::wstring, std::basic_string
 * [std::vector](https://cplusplus.com/reference/vector/vector/)
+
+
+[Utility Libraries](https://en.cppreference.com/w/cpp/utility.html)
+-------------------
+
+* [std::numeric_limits](https://en.cppreference.com/w/cpp/types/numeric_limits.html)
+
+      #include <limits>
+      std::numeric_limits<T>::min()
+      std::numeric_limits<T>::max()

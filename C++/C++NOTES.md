@@ -32,17 +32,17 @@ C++ Notes
 
 * std::multimap, std::multiset
 * [std::pair](https://cplusplus.com/reference/utility/pair/)
-
+```C++
       .first
       .second
       std::make_pair(a, b)  // types are deduced (unlike pair<> constructor)
-
+```
 
 [Container Adapters](https://en.cppreference.com/w/cpp/container.html#Container_adaptors)
 --------------------
 
 * [std::priority_queue](https://en.cppreference.com/w/cpp/container/priority_queue.html)
-
+```C++
       #include <queue>
       std::priority_queue<int> max_heap;
       std::priority_queue<int, std::vector<int>, std::greater<int> > min_heap;
@@ -51,9 +51,10 @@ C++ Notes
       .push(value) : void       // O(lg n) time
       .size() : size_t          // O(1) time
       .top() : const_reference  // peek at top element (largest by default); O(1) time
+```
 * std::queue
 * [std::stack](https://cplusplus.com/reference/stack/stack/)
-
+```C++
       .emplace() : void
       .empty() : bool
       .pop() : void
@@ -61,16 +62,17 @@ C++ Notes
       .size() : size_type
       .swap() : void
       .top() : value_type&
-
+```
 
 [Sequence Containers](https://en.cppreference.com/w/cpp/container.html#Sequence_containers)
 ---------------------
 
 * std::deque
 * std::list
-
+```C++
       --linked_list.end()  // Iterator to last element
       .splice(position, list[, it_first[, it_last]])  // O(1) if `list` refers to this same list; Optimal for reordering elements
+```
 * std::string, std::wstring, std::basic_string
 * [std::vector](https://cplusplus.com/reference/vector/vector/)
 
@@ -79,7 +81,8 @@ C++ Notes
 -------------------
 
 * [std::numeric_limits](https://en.cppreference.com/w/cpp/types/numeric_limits.html)
-
+```C++
       #include <limits>
       std::numeric_limits<T>::min()
       std::numeric_limits<T>::max()
+```

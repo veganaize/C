@@ -41,7 +41,16 @@ C++ Notes
 [Container Adapters](https://en.cppreference.com/w/cpp/container.html#Container_adaptors)
 --------------------
 
-* std::priority_queue
+* [std::priority_queue](https://en.cppreference.com/w/cpp/container/priority_queue.html)
+
+      #include <queue>
+      std::priority_queue<int> max_heap;
+      std::priority_queue<int, std::vector<int>, std::greater<int> > min_heap;
+
+      .pop() : void             // O(lg n) time
+      .push(value) : void       // O(lg n) time
+      .size() : size_t          // O(1) time
+      .top() : const_reference  // peek at top element (largest by default); O(1) time
 * std::queue
 * [std::stack](https://cplusplus.com/reference/stack/stack/)
 

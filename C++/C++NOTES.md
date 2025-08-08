@@ -71,7 +71,7 @@ C++ Notes
 * std::list
 ```C++
       --linked_list.end()  // Iterator to last element
-      .splice(position, list[, it_first[, it_last]])  // O(1) if `list` refers to this same list; Optimal for reordering elements
+      .splice(position, list[, it_first[, it_last]])  // O(1) if `list` is same list; Optimal element reordering
 ```
 * [std::string](https://en.cppreference.com/w/cpp/string.html), [std::wstring](https://en.cppreference.com/w/cpp/string.html), [std::basic_string](https://en.cppreference.com/w/cpp/string/basic_string.html)
 * [std::vector](https://en.cppreference.com/w/cpp/container/vector.html)

@@ -31,7 +31,7 @@ C++ Notes
 | `.size()`          | O(1)                                                            | O(1)
 
 * std::multimap, std::multiset
-* [std::pair](https://cplusplus.com/reference/utility/pair/)
+* [std::pair](https://en.cppreference.com/w/cpp/utility/pair.html)
 ```C++
       .first
       .second
@@ -53,7 +53,7 @@ C++ Notes
       .top() : const_reference  // peek at top element (largest by default); O(1) time
 ```
 * std::queue
-* [std::stack](https://cplusplus.com/reference/stack/stack/)
+* [std::stack](https://en.cppreference.com/w/cpp/container/stack.html)
 ```C++
       .emplace() : void
       .empty() : bool
@@ -74,7 +74,7 @@ C++ Notes
       .splice(position, list[, it_first[, it_last]])  // O(1) if `list` refers to this same list; Optimal for reordering elements
 ```
 * [std::string](https://en.cppreference.com/w/cpp/string.html), [std::wstring](https://en.cppreference.com/w/cpp/string.html), [std::basic_string](https://en.cppreference.com/w/cpp/string/basic_string.html)
-* [std::vector](https://cplusplus.com/reference/vector/vector/)
+* [std::vector](https://en.cppreference.com/w/cpp/container/vector.html)
 
 
 [Utility Libraries](https://en.cppreference.com/w/cpp/utility.html)

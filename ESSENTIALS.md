@@ -17,10 +17,10 @@ _Quick reference for C fundamentals_
     extern _reserved;               /* extern _(a-z..)                       */
     void _Reserved, __reserved;     /* _(A-Z) and __(a-z|A-Z)                */
 
-    void E0, EA;                    /* E(0-9..) and E(A-Z..)                 */
+    void E;                         /* E(0-9..) and E(A-Z..)                 */
     void issomething, tosomething;  /* is(a-z..) and to(a-z..)               */
-    void LC_A;                      /* LC_(A-Z..)                            */
-    void f, l;                      /* (a-z..)f and (a-z..)l                 */
+    void LC_;                       /* LC_(A-Z..)                            */
+    void somethingf, somethingl;    /* (a-z..)f and (a-z..)l                 */
     void SIG, SIG_;                 /* SIG(A-Z..) and SIG_(A-Z..)            */
     void mem, str, wcs;             /* mem(a-z..) and str(a-z..), wcs(a-z..) */
     void _t;                        /* (a-z..)_t                             */

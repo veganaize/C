@@ -25,7 +25,7 @@ C++ Notes
 | `m[key]`           | O(log n)                                                        | O(1) average, O(n) worst
 | `.at(key)`         | O(log n)                                                        | O(1) average, O(n) worst
 | `.empty()`         | O(1)                                                            | O(1)
-| `.erase(position)` | position: Amoritized O(1); key: O(log n)                        | position: O(1) average, O(n) worst; key: O(key) average, O(n) worst
+| `.erase(position)` | `position`: Amoritized O(1); `key`: O(log n)                    | `position`: O(1) average, O(n) worst; `key`: O(key) average, O(n) worst
 | `.find(key)`       | O(log n)                                                        | O(1) average, O(n) worst
 | `.insert(value)`   | [cppreference](http://en.cppreference.com/w/cpp/container/map/insert.html#Complexity) | [cppreference](https://en.cppreference.com/w/cpp/container/unordered_map/insert.html#Complexity)
 | `.size()`          | O(1)                                                            | O(1)

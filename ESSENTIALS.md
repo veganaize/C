@@ -10,7 +10,7 @@ _Quick reference for C fundamentals_
 
 * [Keywords](https://en.cppreference.com/w/c/keyword.html)
 * [Operator Precendence](https://en.cppreference.com/w/c/language/operator_precedence.html)
-* [Reserved Identifiers](https://en.cppreference.com/w/c/language/identifiers.html#Reserved_identifiers) / [Reserved Names](https://www.gnu.org/software/libc/manual/html_node/Reserved-Names.html)
+* Reserved Names: ([cppreference](https://en.cppreference.com/w/c/language/identifiers.html#Reserved_identifiers) / [gnu libc manual](https://www.gnu.org/software/libc/manual/html_node/Reserved-Names.html) / [c99 7.1.3](https://www.open-std.org/jtc1/sc22/wg14/www/docs/n1256.pdf#page=178))
     ```C
     /* All keywords & standard library names are reserved. */
     
@@ -27,6 +27,8 @@ _Quick reference for C fundamentals_
 
     void l_, F_, O_, S_;            /* l_(..), F_(..), O_(..), S_(..); `fcntl.h` */
     void _MAX;                      /* (..)_MAX; `limits.h`                      */
+
+    /* All others prefixed with `_` always reserved for file-scope usage (including tag name spaces). */
     ```
 
 

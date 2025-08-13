@@ -21,7 +21,7 @@
       - [C/C++ language conformance by Visual Studio version](https://learn.microsoft.com/en-us/cpp/overview/visual-cpp-language-conformance?view=msvc-160)
     * __2010__
       - [PSDK 7.1](https://www.microsoft.com/en-us/download/details.aspx?id=8442)  
-        _Includes C compiler and everything needed...  
+        _Includes C/C++ compiler and everything needed...  
         Uninstall ALL "Visual C++ 2010 Redistributables" from control panel FIRST!  
         Then burn/mount the image and run X:\Setup\SDKSetup.exe directly._
       - [C++0x Core Language Features In VC10: The Table](https://devblogs.microsoft.com/cppblog/c0x-core-language-features-in-vc10-the-table/)
@@ -29,7 +29,7 @@
     * __2003__
       - [VC 2003 Toolkit](https://archive.org/download/microsoft-visual-c-toolkit-2003/VCToolkitSetup.exe)  
         _Older alternative which will compile for Win9x/NT, as well..._  
-      - [PSDK 2003 SP1](https://www.microsoft.com/en-us/download/details.aspx?id=15656)  
+      - [PSDK 2003 SP1](web.archive.org/web/20250508040615id_/https://download.microsoft.com/download/7/5/e/75ec7f04-4c8c-4f38-b582-966e76602643/5.2.3790.1830.15.PlatformSDK_Svr2003SP1_rtm.img)  
         _Install this with the 2003 toolkit._
       - [.NET Framework SDK Version 1.1](https://web.archive.org/web/20210820162511id_/https://download.microsoft.com/download/5/2/0/5202f918-306e-426d-9637-d7ee26fbe507/setup.exe)  
         _May be needed for a complete installation._
@@ -58,7 +58,7 @@
       - [Cygwin](https://www.cygwin.com/)
   * _BORLAND_
     * __C++ Builder__
-      - [Borland C++ Compiler 5.5](https://altd.embarcadero.com/download/bcppbuilder/freecommandLinetools.exe)
+      - [Borland C++ Compiler 5.5](https://altd.embarcadero.com/download/bcppbuilder/freecommandLinetools.exe) _(C++98)_
       - [Embarcadero C++ Compiler 7.30](https://altd.embarcadero.com/download/bcppbuilder/BCC102.zip) _(based on [clang](https://clang.llvm.org/)/[llvm](https://llvm.org/))_
   * _OTHERS_
     * [Orange C](https://ladsoft.tripod.com/orange_c_compiler.html) - LADSoft

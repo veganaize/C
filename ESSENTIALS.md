@@ -10,6 +10,24 @@ _Quick reference for C fundamentals_
 
 * [Keywords](https://en.cppreference.com/w/c/keyword.html)
 * [Operator Precendence](https://en.cppreference.com/w/c/language/operator_precedence.html)
+* [Reserved Identifiers](https://en.cppreference.com/w/c/language/identifiers.html#Reserved_identifiers) / [Reserved Names](https://www.gnu.org/software/libc/manual/html_node/Reserved-Names.html)
+    ```C
+    /* All keywords & standard library names are reserved. */
+    
+    extern _reserved;               /* extern _(a-z..)                       */
+    void _Reserved, __reserved;     /* _(A-Z) and __(a-z|A-Z)                */
+
+    void E0, EA;                    /* E(0-9..) and E(A-Z..)                 */
+    void issomething, tosomething;  /* is(a-z..) and to(a-z..)               */
+    void LC_A;                      /* LC_(A-Z..)                            */
+    void f, l;                      /* (a-z..)f and (a-z..)l                 */
+    void SIG, SIG_;                 /* SIG(A-Z..) and SIG_(A-Z..)            */
+    void mem, str, wcs;             /* mem(a-z..) and str(a-z..), wcs(a-z..) */
+    void _t;                        /* (a-z..)_t                             */
+
+    void l_, F_, O_, S_;            /* l_(..), F_(..), O_(..), S_(..); `fcntl.h` */
+    void _MAX;                      /* (..)_MAX; `limits.h`                      */
+    ```
 
 
 [Memory Management](https://cppreference.net/c/memory.html)

@@ -5,6 +5,13 @@ alt="C" /> programming](https://en.cppreference.com/w/c)
 _Quick reference for C fundamentals_
 
 
+[Language](https://en.cppreference.com/w/c/language.html)
+----------
+
+* [Keywords](https://en.cppreference.com/w/c/keyword.html)
+* [Operator Precendence](https://en.cppreference.com/w/c/language/operator_precedence.html)
+
+
 [Memory Management](https://cppreference.net/c/memory.html)
 -------------------
 

@@ -32,6 +32,12 @@ _Quick reference for C fundamentals_
     ```
 
 
+[Input / Output](https://en.cppreference.com/w/c/io.html)
+----------------
+
+* [printf](https://en.cppreference.com/w/c/io/fprintf.html)
+
+
 [Memory Management](https://cppreference.net/c/memory.html)
 -------------------
 

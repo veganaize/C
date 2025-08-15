@@ -18,13 +18,15 @@
 📋 Standard
 -----------
 
-* [C++98](https://open-std.org/jtc1/sc22/wg21/docs/wp/pdf/nov97-2/) 1997-11-25 (n1146)
-* [C++03](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1804.pdf) 2005-04-27 (n1804)
-* [C++11](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2012/n3337.pdf) 2012-01-16 (n3337)
-* [C++14](https://wg21.link/n4140) 2014-10-07 (n4140)
-* [C++17](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2017/n4659.pdf) 2017-03-21 (n4659)
-* [C++20](https://isocpp.org/files/papers/N4860.pdf) 2020-03-31 (n4860)
-* [C++23](https://open-std.org/JTC1/SC22/WG21/docs/papers/2023/n4950.pdf) 2023-05-10 (n4950)
+| [standard](https://en.cppreference.com/w/cpp/compiler_support.html) | yyyy-mm-dd (doc no.) | [g++](https://gcc.gnu.org/projects/cxx-status.html) | [clang++](https://clang.llvm.org/cxx_status.html) | [vc++](https://learn.microsoft.com/en-us/cpp/overview/visual-cpp-language-conformance)
+|-----------------------------------------------------------------------------|----------------------|-----------------------------|-----------------|-----
+| [C++98](https://open-std.org/jtc1/sc22/wg21/docs/wp/pdf/nov97-2/)           | 1997-11-25 (n1146)   | < 6.1 <sup>default</sup>    |                 | VS 6.0 <sup>partial</sup>
+| [C++03](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1804.pdf) | 2005-04-27 (n1804)   | < 6.1 <sup>default</sup>    |
+| [C++11](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2012/n3337.pdf) | 2012-01-16 (n3337)   | 4.8.1                       | 3.3; 3.6 <sup>stdlib</sup> | VS 2015
+| [C++14](https://wg21.link/n4140)                                            | 2014-10-07 (n4140)   | 5.0; 6.1 <sup>default</sup> | 3.4; 3.7 <sup>stdlib</sup> | VS 2015u2
+| [C++17](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2017/n4659.pdf) | 2017-03-21 (n4659)   | 9.1; 11 <sup>default</sup>  | 5.0; 16 <sup>default</sup> | VS 2017 15.7; VS 2019 16.8 <sup>defect reports</sup>; VS 2022 17.1<sup>dr</sup>
+| [C++20](https://isocpp.org/files/papers/N4860.pdf)                          | 2020-03-31 (n4860)   | <sup>experimental</sup>     | 19 <sup>mostly</sup> | VS 2019 16.10; VS 2022 17 <sup>defect reports</sup>
+| [C++23](https://open-std.org/JTC1/SC22/WG21/docs/papers/2023/n4950.pdf)     | 2023-05-10 (n4950)   | <sup>experimental</sup>     | <sup>partial</sup> | <sup>partial</sup>
 
 
 💈 Styling

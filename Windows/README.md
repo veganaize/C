@@ -34,7 +34,9 @@
       - [.NET Framework SDK Version 1.1](https://web.archive.org/web/20210820162511id_/https://download.microsoft.com/download/5/2/0/5202f918-306e-426d-9637-d7ee26fbe507/setup.exe)  
         _May be needed for a complete installation._
     * __6.0__
-      - [SP6](http://web.archive.org/web/20160222035203id_/http://download.microsoft.com/download/1/9/f/19fe4660-5792-4683-99e0-8d48c22eed74/Vs6sp6.exe)
+      - [SP5](https://archive.org/download/vs6sp5/vs6sp5.exe) - archive.org
+      - [Processor Pack](http://download.microsoft.com/download/vb60ent/update/6/w9x2kxp/en-us/vcpp5.exe) - SSE / SSE2 / 3Dnow! / MASM 6.15 _([readme](http://web.archive.org/web/20081222164354id_/http://msdn.microsoft.com/en-us/vs2005/aa718349.aspx))_
+      - [~~SP6~~](http://web.archive.org/web/20160222035203id_/http://download.microsoft.com/download/1/9/f/19fe4660-5792-4683-99e0-8d48c22eed74/Vs6sp6.exe) (VB only?)
       - [vc6redistsetup_enu.exe](https://web.archive.org/web/20120610063726id_/http://download.microsoft.com/download/vc60pro/update/1/w9xnt4/en-us/vc6redistsetup_enu.exe)
     * __NMAKE__
       - [NMake 1.5](https://web.archive.org/web/20060615060342id_/http://download.microsoft.com/download/vc15/Patch/1.52/W95/EN-US/Nmake15.exe) - _32-bit (VC++ 2.0)_

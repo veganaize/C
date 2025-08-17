@@ -29,7 +29,7 @@
     * __2003__
       - [VC 2003 Toolkit](https://archive.org/download/microsoft-visual-c-toolkit-2003/VCToolkitSetup.exe)  
         _Older alternative which will compile for Win9x/NT, as well..._  
-      - [PSDK 2003 SP1](web.archive.org/web/20250508040615id_/https://download.microsoft.com/download/7/5/e/75ec7f04-4c8c-4f38-b582-966e76602643/5.2.3790.1830.15.PlatformSDK_Svr2003SP1_rtm.img)  
+      - [PSDK 2003 SP1](https://web.archive.org/web/20250508040615id_/https://download.microsoft.com/download/7/5/e/75ec7f04-4c8c-4f38-b582-966e76602643/5.2.3790.1830.15.PlatformSDK_Svr2003SP1_rtm.img)  
         _Install this with the 2003 toolkit._
       - [.NET Framework SDK Version 1.1](https://web.archive.org/web/20210820162511id_/https://download.microsoft.com/download/5/2/0/5202f918-306e-426d-9637-d7ee26fbe507/setup.exe)  
         _May be needed for a complete installation._

@@ -32,6 +32,7 @@
 💈 Styling
 ---------
 
+* [C++ Coding Conventions](http://web.archive.org/web/20160815171442id_/http://www.c-xx.com/ccc/ccc.php) - c-xx.com
 * [C++ Core Guidelines](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines) - iso
 * [Coding Guidelines](https://github.com/qbittorrent/qBittorrent/blob/master/CODING_GUIDELINES.md) - qbittorrent
 * [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html) - google

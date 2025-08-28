@@ -26,8 +26,13 @@
         Then burn/mount the image and run X:\Setup\SDKSetup.exe directly._
       - [C++0x Core Language Features In VC10: The Table](https://devblogs.microsoft.com/cppblog/c0x-core-language-features-in-vc10-the-table/)
       - [C++11 features in VC++ 2010 ](http://web.archive.org/web/20221127094629id_/https://learn.microsoft.com/en-us/previous-versions/hh567368(v=vs.140))
+    * __2008__
+      - [VC++ 2008 Express Edition w/ SP1](web.archive.org/web/20110501194148id_/https://download.microsoft.com/download/A/5/4/A54BADB6-9C3F-478D-8657-93B3FC9FE62D/vcsetup.exe)
+      - [VC++ Compiler for Python 2.7](http://web.archive.org/web/20160320053849id_/https://download.microsoft.com/download/7/9/6/796EF2E4-801B-4FC4-AB28-B59FBF6D907B/VCForPython27.msi)
+    * __2005__
+      - [VC++ 2005 Express Edition](http://go.microsoft.com/fwlink/?linkid=57034)
     * __2003__
-      - [VC 2003 Toolkit](https://archive.org/download/microsoft-visual-c-toolkit-2003/VCToolkitSetup.exe)  
+      - [VC++ 2003 Toolkit](https://archive.org/download/microsoft-visual-c-toolkit-2003/VCToolkitSetup.exe)  
         _Older alternative which will compile for Win9x/NT, as well..._  
       - [PSDK 2003 SP1](https://web.archive.org/web/20250508040615id_/https://download.microsoft.com/download/7/5/e/75ec7f04-4c8c-4f38-b582-966e76602643/5.2.3790.1830.15.PlatformSDK_Svr2003SP1_rtm.img)  
         _Install this with the 2003 toolkit._

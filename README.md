@@ -56,7 +56,13 @@
 
 ### Tools
 * [Tiny C Compiler (TCC)](https://bellard.org/tcc/)
-* [GNU Make](https://www.gnu.org/software/make/) [[_makefile conventions_](https://www.gnu.org/prep/standards/html_node/Makefile-Conventions.html)] [[_manual - single page_](https://www.gnu.org/software/make/manual/make.html)] [[_manual - multi page_](https://www.gnu.org/software/make/manual/html_node/index.html)] [[_POSIX.1-2017_](https://pubs.opengroup.org/onlinepubs/9699919799/utilities/make.html)]
+* [GNU Make](https://www.gnu.org/software/make/)
+  - [_makefile conventions_](https://www.gnu.org/prep/standards/html_node/Makefile-Conventions.html)
+  - [_manual - single page_](https://www.gnu.org/software/make/manual/make.html) - current
+  - [_manual - multi page_](https://www.gnu.org/software/make/manual/html_node/index.html) - current
+  - [_manual - multi page_](https://web.mit.edu/gnu/doc/html/make_toc.html) - 3.72 beta (1994)
+  - [_POSIX.1-2017_](https://pubs.opengroup.org/onlinepubs/9699919799/utilities/make.html)
+  - [_POSIX.1-2024_](https://pubs.opengroup.org/onlinepubs/9799919799/utilities/make.html)
 * [pkgconf](https://github.com/pkgconf/pkgconf) / [Guide to pkg-config](https://people.freedesktop.org/~dbn/pkg-config-guide.html)
 * [GCC Optimizations](https://wiki.gentoo.org/wiki/GCC_optimization) - gentoo wiki
 * [GCC Opimization Options](https://gcc.gnu.org/onlinedocs/gcc/Optimize-Options.html) - gnu gcc docs

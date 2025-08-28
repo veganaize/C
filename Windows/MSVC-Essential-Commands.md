@@ -69,7 +69,7 @@ Check object bitness:
 MSBuild
 -------
 
-`msbuild /p:platform=win32 /p:configuration=release /p:platformtoolset=v142 /t:clean`
+`msbuild /m[:n] /p:platform=win32 /p:configuration=release /p:platformtoolset=v142 /t:clean`
 
 
 SDL2 (x86)

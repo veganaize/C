@@ -27,10 +27,14 @@
       - [C++0x Core Language Features In VC10: The Table](https://devblogs.microsoft.com/cppblog/c0x-core-language-features-in-vc10-the-table/)
       - [C++11 features in VC++ 2010 ](http://web.archive.org/web/20221127094629id_/https://learn.microsoft.com/en-us/previous-versions/hh567368(v=vs.140))
     * __2008__
-      - [VC++ 2008 Express Edition w/ SP1](web.archive.org/web/20110501194148id_/https://download.microsoft.com/download/A/5/4/A54BADB6-9C3F-478D-8657-93B3FC9FE62D/vcsetup.exe)
+      - [VS 2008 Express w/ SP1](https://download.microsoft.com/download/E/8/E/E8EEB394-7F42-4963-A2D8-29559B738298/VS2008ExpressWithSP1ENUX1504728.iso) - iso
+      - [MSDN VS 2008 SP1 Library](http://download.microsoft.com/download/1/f/0/1f07c259-7ff2-4902-9205-ad1dfb87ccab/VS2008SP1MSDNENUX1506188.iso) - iso
       - [VC++ Compiler for Python 2.7](http://web.archive.org/web/20160320053849id_/https://download.microsoft.com/download/7/9/6/796EF2E4-801B-4FC4-AB28-B59FBF6D907B/VCForPython27.msi)
     * __2005__
       - [VC++ 2005 Express Edition](http://go.microsoft.com/fwlink/?linkid=57034)
+        - [C++ doumentation](https://download.microsoft.com/download/1/6/d/16d24ada-5317-4de1-b2b2-890b51813d6e/VS2005_CPP_en-us.pdf) - pdf
+        - [SDK documentation](https://download.microsoft.com/download/1/6/d/16d24ada-5317-4de1-b2b2-890b51813d6e/VS2005_SDK_en-us.pdf) - pdf
+        - [General documentation](https://download.microsoft.com/download/1/6/d/16d24ada-5317-4de1-b2b2-890b51813d6e/VS2005_General_en-us.pdf) - pdf
     * __2003__
       - [VC++ 2003 Toolkit](https://archive.org/download/microsoft-visual-c-toolkit-2003/VCToolkitSetup.exe)  
         _Older alternative which will compile for Win9x/NT, as well..._  

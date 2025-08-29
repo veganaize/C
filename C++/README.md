@@ -63,7 +63,7 @@
   - [Part 2: Abstraction Mechanisms](https://isocpp.org/images/uploads/3-Tour-Abstr.pdf)
   - [Part 3: Containers and Algorithms](https://isocpp.org/files/papers/4-Tour-Algo-draft.pdf)
   - [Part 4: Concurrency and Utilities](https://isocpp.org/files/papers/5-Tour-Util.pdf)
-* [Beginner's C++ Guide](http://web.archive.org/web/20091009091720/http://msdn.microsoft.com/en-us/beginner/cc305129.aspx) (2008)
+* [Tier One: C++ Beginner's Guide](http://web.archive.org/web/20091009091720/http://msdn.microsoft.com/en-us/beginner/cc305129.aspx) (2008)
   - [Chapter 1: C++ Fundamentals](http://web.archive.org/web/20121021015313id_/http://download.microsoft.com/download/d/b/b/dbb6dfc2-4d18-44c7-8402-cc546c9203a6/C%2B%2B%20Beginner%27s%20Guide%20CH01.pdf)
   - [Chapter 2: Introducing Data Types and Operators](http://web.archive.org/web/20121021015313id_/http://download.microsoft.com/download/d/b/b/dbb6dfc2-4d18-44c7-8402-cc546c9203a6/C%2B%2B%20Beginner%27s%20Guide%20CH02.pdf)
   - [Chapter 3: Program Control Statements](http://web.archive.org/web/20121021015313id_/http://download.microsoft.com/download/d/b/b/dbb6dfc2-4d18-44c7-8402-cc546c9203a6/C%2B%2B%20Beginner%27s%20Guide%20CH03.pdf)

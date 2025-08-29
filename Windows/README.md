@@ -28,7 +28,8 @@
       - [C++11 features in VC++ 2010 ](http://web.archive.org/web/20221127094629id_/https://learn.microsoft.com/en-us/previous-versions/hh567368(v=vs.140))
     * __2008__
       - [VS 2008 Express w/ SP1](https://download.microsoft.com/download/E/8/E/E8EEB394-7F42-4963-A2D8-29559B738298/VS2008ExpressWithSP1ENUX1504728.iso) - iso
-      - [MSDN VS 2008 SP1 Library](http://download.microsoft.com/download/1/f/0/1f07c259-7ff2-4902-9205-ad1dfb87ccab/VS2008SP1MSDNENUX1506188.iso) - iso
+      - [MSDN VS Express Library](web.archive.org/web/20190128091222id_/http://download.microsoft.com/download/9/9/5/995F050F-3E12-4A37-9B38-BEC3B3E899DA/msdnixp.exe)
+      - [MSDN VS 2008 SP1 Library](http://download.microsoft.com/download/1/f/0/1f07c259-7ff2-4902-9205-ad1dfb87ccab/VS2008SP1MSDNENUX1506188.iso) - iso (standalone; won't integrate with express)
       - [VC++ Compiler for Python 2.7](http://web.archive.org/web/20160320053849id_/https://download.microsoft.com/download/7/9/6/796EF2E4-801B-4FC4-AB28-B59FBF6D907B/VCForPython27.msi)
     * __2005__
       - [VC++ 2005 Express Edition](http://go.microsoft.com/fwlink/?linkid=57034) - iso
